@@ -1,0 +1,1115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The crafty whore or, the mistery and iniquity of bawdy houses laid open, in a dialogue between two subtle bawds, wherein, as in a mirrour, our city-curtesans may see their soul-destroying art, and crafty devices, whereby they insnare and beguile youth, pourtraied to the life, by the pensell of one of their late, (but now penitent) captives, for the benefit of all, but especially the younger sort. Whereunto is added dehortations from lust drawn from the sad and lamentable consequences it produceth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 159 KB of XML-encoded text transcribed from 66 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80750</idno>
+            <idno type="STC">Wing C6780</idno>
+            <idno type="STC">Thomason E1927_1</idno>
+            <idno type="STC">ESTC R209987</idno>
+            <idno type="EEBO-CITATION">99868830</idno>
+            <idno type="PROQUEST">99868830</idno>
+            <idno type="VID">121186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121186)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 239:E1927[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The crafty whore or, the mistery and iniquity of bawdy houses laid open, in a dialogue between two subtle bawds, wherein, as in a mirrour, our city-curtesans may see their soul-destroying art, and crafty devices, whereby they insnare and beguile youth, pourtraied to the life, by the pensell of one of their late, (but now penitent) captives, for the benefit of all, but especially the younger sort. Whereunto is added dehortations from lust drawn from the sad and lamentable consequences it produceth.</title>
+               </titleStmt>
+               <extent>[18], 112 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Marsh at the Princes Armes, at the lower end of Chancery-lane, neere the Inner Temple-Gate, in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With engraved frontispiece.</note>
+                  <note>Annotation on Thomason copy: "May 1658".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prostitution --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121186:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE CRAFTY WHORE:</hi> OR, The miſtery and iniquity OF BAWDY HOUSES Laid open, In a dialogue between two <hi>S<g ref="char:V">Ʋ</g>BTLE BAWDS,</hi> wherein, as in a mirrour, our <hi>CITY-C<g ref="char:V">Ʋ</g>RTESANS</hi> may ſee their ſoul-deſtroying <hi>Art,</hi> and <hi>Crafty</hi> devices, whereby they <hi>Inſnare</hi> and beguile Youth, pourtraied to the <hi>life,</hi> By the PENSELL of one of their late, <hi>(but now penitent)</hi> CAPTIVES, for the benefit of all, but eſpecially the younger ſort. Whereunto is added DEHORTATIONS from LUST Drawn from the <hi>SAD</hi> and <hi>LAMENTABLE</hi> Conſequences it produceth.</p>
+            <q>
+               <l>
+                  <hi>Ite, ſed a ſtimulo carnis Veneriſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> cavete;</hi>
+               </l>
+               <l>
+                  <hi>Cauta eſt, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> dolis andi<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> plena Venus.</hi>
+               </l>
+               <l>
+                  <hi>Vel prodeſſe volo vel delectare—</hi>
+               </l>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Henry Marſh</hi> at the Princes Armes, at the lower end of <hi>Chancery-lane,</hi> neere the Inner <hi>Temple-Gate,</hi> in <hi>Fleet-</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:121186:2" rendition="simple:additions"/>
+            <pb facs="tcp:121186:2"/>
+            <pb facs="tcp:121186:3"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of a scene from a bawdy house (brothel)</figDesc>
+                  <p>Sould by <hi>Henry Marsh,</hi> at the Princes Armes at the Lower end of Chancery Lane, nere the Inner Temple Gate in Fleeteſtreet;</p>
+                  <byline>R. Gaywood fecit.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:121186:3" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:121186:4"/>
+            <pb facs="tcp:121186:4"/>
+            <head>The Authors Preface to his Countri-men,</head>
+            <opener>
+               <salute>Worthy Sirs,</salute>
+            </opener>
+            <p>WEre there in this our native and noble Country <hi>England,</hi> no ſuch creatures, (alias Di<g ref="char:EOLhyphen"/>vells incarnate) as Bawds and Whores, (of all ſorts) it would have been a vain thing in me, to have wrote of this <hi>laſci<g ref="char:EOLhyphen"/>vium et doloſum pecus,</hi> and therein to have admoniſh'd you to ſhun them. Or could out magiſtrates have been ſo prevalent, as were <hi>Juſtinian,</hi> and <hi>Theo<g ref="char:EOLhyphen"/>doſius,</hi> in the extirpation of theſe un<g ref="char:EOLhyphen"/>profitable
+<pb facs="tcp:121186:5"/> Drones, it would not onely have ſav'd me this labour, but would alſo have prevented the ruine of many rich and antient families. But ſince even ſtrangers take notice (upon re<g ref="char:EOLhyphen"/>cord) of the levity of our nation, and that we have too too Apiſhly imitated the <hi>French,</hi> I not onely ta<g ref="char:EOLhyphen"/>citly griev'd at it;
+<q>
+                  <l>
+                     <hi>(—Pudet haec opprobria nobis,</hi>
+                  </l>
+                  <l>
+                     <hi>Et dici potuiſſe, et non potuiſſe refelli.)</hi>
+                  </l>
+               </q> but reſolv'd to trie what good I could do, by ſhewing you the vild<g ref="char:EOLhyphen"/>neſſe and perniciouſneſſe of thoſe, who make it their ſole lively-hood to commit whoredome; and by re<g ref="char:EOLhyphen"/>preſenting to you the manner of their cheates, how they allure with words, intice with geſtures, nodds, amorous and petulant glances, &amp;c. you may be admoniſht to avoid
+<pb facs="tcp:121186:5"/> and beware of the like. It was not any ſelfe pleaſing conceit that did put me upon this worke, but to diſcharge my conſcience, was I wil<g ref="char:EOLhyphen"/>ling to let all men ſee the vitiouſneſſe and ſowlneſſe of the lives of all Curtezans (either <hi>private</hi> or <hi>com<g ref="char:EOLhyphen"/>mon</hi>) repreſented to your view in the relation of the life of one <hi>Thais,</hi> and one <hi>Antonia,</hi> alias one <hi>Bawd</hi> and one <hi>Whore;</hi> yet two grand myſteries of in<g ref="char:EOLhyphen"/>quiry. I hope you will by this book learne to ſhun thoſe <hi>Locuſts,</hi> who ſtill imploy their time in deſtroy<g ref="char:EOLhyphen"/>ing the young plants of this land, to this purpoſe was this treatiſe in<g ref="char:EOLhyphen"/>tended. Wherefore I here fore<g ref="char:EOLhyphen"/>warn all thoſe that are reſolv'd to follow their Luſts and debauchments, not to read it, leaſt they pervert the ſence, and ſo turne that which otherwiſe might be good, in it ſelf, into Poiſon. I do ingeniouſly con<g ref="char:EOLhyphen"/>feſſe, that ſome expreſſions may be
+<pb facs="tcp:121186:6"/> ſomewhat diſſolute and wanton (and therefore it is, that I forbid diſſo<g ref="char:EOLhyphen"/>lute perſons to read them) becauſe they are the repreſentatives of ſuch perſons, words and actions, and there<g ref="char:EOLhyphen"/>fore I hope the eaſier to be ex<g ref="char:EOLhyphen"/>cuſed, but ſtill I ſhall firmely be<g ref="char:EOLhyphen"/>leive that they are not capable to corrupt and vitiate any's chaſt thoughts, but rather by it render the odiouſ<g ref="char:EOLhyphen"/>neſſe of laſcivious ſpeeches and behavi<g ref="char:EOLhyphen"/>our in it's proper defiled colours. Like<g ref="char:EOLhyphen"/>wiſe hence you may ſee their folly, and learne from thence to know that that is not true &amp; real pleaſure which ſuch deboiſt ſpirits adjudge ſo, but that which is to be found in modeſty vertue, and honeſty. I have here<g ref="char:EOLhyphen"/>in done as your Phyſitians do with their bitter pills, that is gild them, to invite their patients to ſwallow them. I have by ſimilitude ſhown ſomething by the outſide, which ſeemes delightfull and pleaſant, but
+<pb facs="tcp:121186:6"/> within there is nothing but unre<g ref="char:EOLhyphen"/>provable reprehenſions and accuſati<g ref="char:EOLhyphen"/>ons of vice.
+<q>
+                  <l>
+                     <hi>—Licuit ſemper<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> licebit</hi>
+                  </l>
+                  <l>
+                     <hi>—Dicere de vitijs.</hi>
+                  </l>
+               </q>
+               <q>
+                  <l>It lawfull was of old and ſtill ſhall be</l>
+                  <l>To ſpeake of vice—</l>
+               </q>
+            </p>
+            <p>Had I acted the part of a ſevere Satyriſt, the rigorouſneſſe of my title would have deſwaded men from reading further: whereas by being comicall, I may <hi>(ſimul et ſemel)</hi> both pleaſe and reprove.
+<q>
+                  <l>
+                     <hi>—Ridentem dicere verum,</hi>
+                  </l>
+                  <l>
+                     <hi>Quid vetat?—</hi>
+                  </l>
+               </q>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:121186:7"/> by living diſſolutely, rio<g ref="char:EOLhyphen"/>touſly, and laſciviouſly, my excuſe is evident. However condemn'd I know I ſhall be by ſome nar<g ref="char:EOLhyphen"/>row ſpirits, whoſe cheife under<g ref="char:EOLhyphen"/>ſtanding lies in their bare ſenſe, that can looke no further, then the literall meaning, but had they the capacity to breake the ſhell of theſe fables, they may find ſuch truths as are not commonly pub<g ref="char:EOLhyphen"/>liſht in Print, and they ſhall evi<g ref="char:EOLhyphen"/>dently perceive how pleaſure and inſtruction walke hand in hand; and that there are mingled <hi>ſacra profanis,</hi> I hope not profain'd. Some will aske perhaps why I en<g ref="char:EOLhyphen"/>tred on this ſubject? I ſhall anſ<g ref="char:EOLhyphen"/>wer firſt that I might be in ſome
+<pb facs="tcp:121186:7"/> imployment; becauſe there is no greater cauſe of falling to thoſe vices, and that company I adviſe you to ſhun, then idleneſſe, wher<g ref="char:EOLhyphen"/>of there is no ſurer care then buſi<g ref="char:EOLhyphen"/>neſſe. In the next plact I did it, becauſe having tried and having ſuffered by theſe <hi>ſin ſelling</hi> Tra<g ref="char:EOLhyphen"/>ders, I might ſtand as a Beacon, to forewarne you to beware how you come neare them.</p>
+            <q>
+               <hi>Experto credi Richardo.</hi>
+            </q>
+            <p>I may ſay what <hi>Marius</hi> in <hi>Se<g ref="char:EOLhyphen"/>neca, Quae illi audire et legere ſo<g ref="char:EOLhyphen"/>lent, eorum partim egomet vidi,</hi> and ſo I am willing to be helpfull to my countrymen, out of a fel<g ref="char:EOLhyphen"/>low
+<pb facs="tcp:121186:8"/> feeling, as was a Lady I have read of, who being a Leper, built an Hoſpitall at her owne charge for all thoſe that were Le<g ref="char:EOLhyphen"/>prous. I have (in writing my obſervations) imitated <hi>Ziſca,</hi> a valiant Captaine, who command<g ref="char:EOLhyphen"/>ed that after his death there ſhould a Drum be made of his skin, as thinking that the noiſe therof would terrifie his enemies, being ſo terrible to them whileſt he lived. Now as for the ſubject, <hi>I</hi> cannot thinke that envy it ſelfe can finde fault with it, ſince the holy Prophets wrote thereof, as alſo <hi>Salomon</hi> deſcribed their ge<g ref="char:EOLhyphen"/>ſtures, fawnings, allurements, with
+<pb facs="tcp:121186:8"/> all the reſt of their crafty deal<g ref="char:EOLhyphen"/>lings, and ſoule deſtroying ways: I ſhall forbeare to mention many centuries both of Phyloſophicall and divine Authors, that have wrote of Bawds, Whores, Pan<g ref="char:EOLhyphen"/>ders, &amp;c and their acts. What miſcheif this ſin of luſt hath done in the world, both modern and antient Authors have ſufficiently declared, and beſides our diur<g ref="char:EOLhyphen"/>nall experience, the holy Scrip<g ref="char:EOLhyphen"/>ture doth make it evident: As Gods bringing a deluge on the world for the commiſſion of for<g ref="char:EOLhyphen"/>nication by <hi>Seth</hi> with the daugh<g ref="char:EOLhyphen"/>ters of <hi>Cain.</hi> For this ſin was the whole tribe of <hi>Benjamin</hi> al<g ref="char:EOLhyphen"/>moſt extinguiſh't: for one ſole
+<pb facs="tcp:121186:9"/> adultery of <hi>David</hi> what a ſlaugh<g ref="char:EOLhyphen"/>ter did God bring on his people by the plague, and famin, and ſword. Againe how many Kings have been diſthron'd by this wan<g ref="char:EOLhyphen"/>ton ſin, as <hi>Tarquinius, Claudius, Hanniball, Marcus Antonius, &amp;c</hi> I really believe, there is hardly a vi<g ref="char:EOLhyphen"/>tious act commited, or downfal of any mans eſtate, which had not it's originall from luſt. What better thing then can I be imploy'd in, then by indeavouring to kill this <hi>hydra</hi> that hath kild ſo many, or at leaſtwiſe diſcover to men its den, that thereby they may not come neare it, unleſſe they will be guilty of ſelfe murther. By this monſter, I mean all looſe women,
+<pb facs="tcp:121186:9"/> but eſpecially common Whores, whom I adviſe you not to cheap<g ref="char:EOLhyphen"/>en unleſſe you intend your dam<g ref="char:EOLhyphen"/>nation to be the price: not onely ſo, but if you uſe their company, they will likewiſe be your bodily undoing. For as they are for the moſt part faire, ſo are they witty and crafty; out of all arts have they ſuck't the poyſon of their craft, ſo that it's almoſt impoſſi<g ref="char:EOLhyphen"/>ble to be undeceiv'd in their com<g ref="char:EOLhyphen"/>pany. I can ſpeake this by expe<g ref="char:EOLhyphen"/>rience as having been often cheat<g ref="char:EOLhyphen"/>ted in the rottenneſſe and deceit<g ref="char:EOLhyphen"/>fullneſſe of theſe female commo<g ref="char:EOLhyphen"/>dities, and therefore I may the better be your pilot to keep you from ſplitting againſt their <hi>Seylla</hi>
+               <pb facs="tcp:121186:10"/> and <hi>Caribdis.</hi> I may tell you that I have been as petulant as o<g ref="char:EOLhyphen"/>thers, and I have been heretofore ſo far from appoſing that general<g ref="char:EOLhyphen"/>ly beloved theſis of injoying plea<g ref="char:EOLhyphen"/>ſure, as that I rather ſtudied how I might be an aſſector &amp; promotor of that doctrine; but now expe<g ref="char:EOLhyphen"/>rience hath reformed my judge<g ref="char:EOLhyphen"/>ment; ſo that I can now look on a handſome woman, with as little ardour as upon a well pro<g ref="char:EOLhyphen"/>portion'd ſtatue, which that you may ſo do, ſhall be the continuall prayer of him: who is</p>
+            <closer>
+               <signed>Your Countryman.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:121186:10"/>
+            <head>A <hi>DIALOGUE</hi> Between ANTONIA And THAIS.</head>
+            <sp>
+               <speaker>
+                  <seg rend="decorInit">A</seg>NTONIA,</speaker>
+               <p>I would willing<g ref="char:EOLhyphen"/>ly heare by what meanes, and for what ends your Mother and you, firſt arriv'd at <hi>Rome?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>THAIS,</speaker>
+               <p>Since fortune fa<g ref="char:EOLhyphen"/>vours me with opportunity, I ſhall be willing to ſatisfie your curioſity in this my Narration. I need not tell you in what manner we came to this <hi>City,</hi> ſince by the way there did nothing occur of moment; therefore be pleaſed to underſtand that as ſoone as we came hither, we inquired out what place in the <hi>City</hi> was moſt reſorted to by <hi>Courtiers,</hi> and young <hi>Gallants;</hi> which as
+<pb n="2" facs="tcp:121186:11"/> ſoone as we underſtood, thither ſpeedily did we repaire, where we met with a Woman, who got her living by letting of Lodgings; with this Woman we found very good acco<g ref="char:EOLhyphen"/>modation; what was provided for our ne<g ref="char:EOLhyphen"/>ceſſary food, was neat and dainty; as for the furniture of our Chamber, it was both rich and eye-pleaſing. Here we continued eight days, before which were expired, our Landlady had ſufficiently loud, blowne the trumpet of my extraordinary beauty, fit com<g ref="char:EOLhyphen"/>poſure of body, excellent be haviour, and o<g ref="char:EOLhyphen"/>ther rare both naturall and artificiall excel<g ref="char:EOLhyphen"/>lencies of ſoul and body, with which I was indued; but above all the reſt (ſhe being al<g ref="char:EOLhyphen"/>moſt blinded with the raise of my ſparkling eye, and rare ſymetry of my beautifull com<g ref="char:EOLhyphen"/>plexion) I ſay ſhe acquainted a Young Spark, a great hunter of <hi>City beauties</hi> and delights, how ſhe lodged a Female Creature, that might be tearmed the Maſter-piece of nature. Pre<g ref="char:EOLhyphen"/>ſently upon this bare relation, he acquaints others of his aſſociates with this buſineſſe, and they their friends, ſo that in a ſmall time (this diſeaſe being ſo catching and infecti<g ref="char:EOLhyphen"/>ous) there flocked a number of theſe Female-mongers before our Lodgings, I preſently ſmelling their deſignes, and therefore kept my ſelfe extraordinary retired, the more to
+<pb n="3" facs="tcp:121186:11"/> inflame their appetites: yet would I ſtand at the window at ſuch a convenient place that I might ſee, yet not be ſeen; when I ſaw any young gull to gape and gaze very earneſtly for a ſight of me, then would I put my head out of the Caſement to ſpit downe, not diſ<g ref="char:EOLhyphen"/>covering to him above halfe my face, but I would haſtily catch in my head, the more to deceive his eye-ſight, and cauſe him to con<g ref="char:EOLhyphen"/>ceive the more of my honeſt chaſtity, ſo that by this craft, I appeared to be more virtuous and beautifull. For the eye being hindred from what it eagerly deſires to ſee, kindles in the affections a fierce indeavour to ſatisfie themſelves in the purſuit of their injoyment; By this time there were few of Love's Cham<g ref="char:EOLhyphen"/>pions which had not notice of me; in ſo much that our Houſe was almoſt filled with amorous Viſitants; our Landlady in the meane while, made her benefit on this occaſi<g ref="char:EOLhyphen"/>on, for they ſufficiently greaz'd her fiſt to me<g ref="char:EOLhyphen"/>diate for them. Now did my Mother begin to beſtir her ſtumps, and being ſhe was a Wo<g ref="char:EOLhyphen"/>man ſufficiently tutored and experienced in Pandariſme, her long exerciſe in that noble art, made her a perfect Crafts-Miſtreſſe, where<g ref="char:EOLhyphen"/>fore ſhe would pretend ſometimes that ſuſpi<g ref="char:EOLhyphen"/>tion would not ſuffer her to admit of ſuch variety of Company, and that ſhe much fear<g ref="char:EOLhyphen"/>ed
+<pb n="4" facs="tcp:121186:12"/> in time, that it might pervert the chaſte minde of her onely Daughter; and then would ſhe break out into theſe expreſſions. Is it poſ<g ref="char:EOLhyphen"/>ſible for me a ſtaid Matron to be led away with faire ſpeeches, which may prove the ruine of my Daughters chaſtity, and the diſ<g ref="char:EOLhyphen"/>honour of our antient Family; God forbid that I ſhould permit any thing that might be the cauſe of contaminating her hither to im<g ref="char:EOLhyphen"/>maculated flower of Virginity; whereas God knows, it was long ſince, that I could not be at reſt till I had tryed and taſted of the ſweet pleaſures of concupiſcence; I have many times heard, and I accordingly did put it in practice, that in love affaires, we muſt make hay while the Sun ſhines, or whileſt fortune favours; I accounted it a matter of diſcreti<g ref="char:EOLhyphen"/>on to uſe that to day, which I knew not whi<g ref="char:EOLhyphen"/>ther it might be offred me to morrow; As ſoone as vigorous nature had provokt me to ſurrender up my Virgin fort, I was willing (for ſcare of diſpleaſing her) to let it be taken at the firſt aſſault; For I was very ſen<g ref="char:EOLhyphen"/>ſible that my Virgin-bud now diſcloſing it ſelfe, delay would but blow it wider; the longer it was ſuffered to grow, the ſooner it would fade, wherefore theſe things and many other, after I had duly conſidered on, I thought on no better way, then in my fre<g ref="char:EOLhyphen"/>quent
+<pb n="5" facs="tcp:121186:12"/> wanton motion to ſympathize with the Heavens in its continuall agitation: Well, my Mother (if ſhe thought any of theſe Gal<g ref="char:EOLhyphen"/>lants were neere enough to heare her) would continue expoſtulating with her ſelfe; what, ſhall I regard either their faire ſpeeches or quality? No, honeſty ſhall be more prevalent with me. Beſides, are we not diſcended of a noble Progeny? And are we not ſo ſuffici<g ref="char:EOLhyphen"/>ently in fortunes favour, as not to be deſti<g ref="char:EOLhyphen"/>tute of that, of which we may lead an honeſt life? Many other ſuch expreſſions did ſhe uſe, which did make a wonderfull addition both to my beauty, honeſty and nobility. My Lovers being thus captivated by the real and imaginary ſplendor of my perfections, conti<g ref="char:EOLhyphen"/>nue ſtill their congregations before my lodg<g ref="char:EOLhyphen"/>ings, every one had the hopes to crop the chiefe flower of my Garden. At laſt I could not reſiſt the motions of my mind, but would ſometimes ſtand at the window and ſeeme to take wonderful delight in thoſe, that I thought were moſt rich and wealthy; as for other Reck ſhares, as a brave preſence, gallantry of habit, or a nice and quaint gate, who foot it ſo to a tittle, that it ſeems their ſenſes are placed in their feet. I regarded not theſe things, wealth and pleaſure were the center of my ambition. It's not bravery or high
+<pb n="6" facs="tcp:121186:13"/> quality that Women regard, when with ſer<g ref="char:EOLhyphen"/>vency of ſpirit ſhe would take a taſt of vene<g ref="char:EOLhyphen"/>reall pleaſures: for it hath been experiment<g ref="char:EOLhyphen"/>ed, that the freeze Jerk in hath afforded Fe<g ref="char:EOLhyphen"/>males as much delighting contentment, as the velvet Coat, Sometimes my adorers would walk, ſome times ride in their richeſt attire before our houſe, one while they would com<g ref="char:EOLhyphen"/>plain of their hard fate in denying them a ſight of me, other whiles they would ſing.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Now you talk of ſongs, I remember a catch one of my Lovers ecchoed forth, when I was as thou wer't, It was to this purpoſe,
+<q>
+                     <l>
+                        <hi>Omnia quae patior mala ſi penſare velit fors</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>nâ aliqua nobis proſperitate, Dij.</hi>
+                     </l>
+                     <l>
+                        <hi>Hoc precor ut faciant faciant me cernere coram</hi>
+                     </l>
+                     <l>
+                        <hi>Cor mihi captivum quae tenet hocce, Deam.</hi>
+                     </l>
+                  </q>
+                  <q>
+                     <l>If that the Gods ſhall pleaſe to dignifie</l>
+                     <l>Our many griefes with one felicity.</l>
+                     <l>Oh be it this, to me (ye Gods impart)</l>
+                     <l>A ſight of her that Captivates my heart.</l>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>When any of them ſtood under my window, leaſt they ſhould doubt of my being at home, I would feigne a cough, and ſo ſpit out at the Caſement. Then would they before I could recover in my head addreſſe them<g ref="char:EOLhyphen"/>ſelves
+<pb n="7" facs="tcp:121186:13"/> in ſuch like complaints, and ſole Mi<g ref="char:EOLhyphen"/>ſtreſſe of my affections, the Idaea of all perfe<g ref="char:EOLhyphen"/>ction; how can it conſiſt with the gentleneſs of your nature, and ſoftneſſe of diſpoſition, to be ſo cruell as to commit homicide, do not be as the wind of bellows which inflames, though it be cold. All my anſwers would be nothing but pleaſing ſmiles, (the uſuall vaile that covers female ignorance) which were better bonds to ſhackle them, then the beſt rhetorick I could pronounce; thus they adored me as a Goddeſs, though at a venereall banquet, I ſay at the <hi>Prick</hi> of time. I could be content to be to them a <hi>ſubjected Mortall.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>I do admire at thy wit in that thy ten<g ref="char:EOLhyphen"/>der age.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>It's but a folly for any one to pra<g ref="char:EOLhyphen"/>ctice this myſterious art, without they have wit at will. But to proceed, my Mother now began to ſtudy how ſhe might inveſt me with gallant apparell, knowing how great an orna<g ref="char:EOLhyphen"/>ment it is to a comely face, wherefore ſhe (as your Chambermaids uſe) laid moſt part of her patrimony on my back, cloathing me in pink colour ſattin ſlaſht, and with very ſhort ſleeves.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>And why with ſhort ſleeves?</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Becauſe the ſmoothneſſe, and white<g ref="char:EOLhyphen"/>neſs of my skin might be continually in ſight,
+<pb n="8" facs="tcp:121186:14"/> and felt too if they pleas'd: My haire being artificially curl'd was tyed with Ribbands wearing likewiſe a gold caule; and becauſe it was of a bright yellow (the right complex<g ref="char:EOLhyphen"/>ion) every haire ſeemed as a thred of gold to the opticks of my Lovers. My Mother was carefull not to omit a day in waſhing my face with <hi>Mercury</hi> water, and other things, which ſhe kept on purpoſe to make me faire and my face to ſhine, as yet we ſcorn'd tinctures and paintings, that loſt beauties uſe. I being thus addreſſed, did chuſe ſuch a time to ſhow my ſelfe, when moſt of my Lovers were preſent; then would I appear on a ſuddain to them at the window, which would ſo ſurprize and a<g ref="char:EOLhyphen"/>maze them, that they were almoſt in an extaſy of joy, and would gaze ſo on this new appear<g ref="char:EOLhyphen"/>ing ſtar, that if the eyes had been the inſtru<g ref="char:EOLhyphen"/>ments of generation, certainly they would have got me with child.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>But how did you behave your ſelfe this while?</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>I feigned more chaſtity then a <hi>Nun,</hi> more modeſty then <hi>Penelope:</hi> to which I ad<g ref="char:EOLhyphen"/>ded a great many geſtures and motions ſo ſit for my purpoſe, as if they had been afore ſtu<g ref="char:EOLhyphen"/>died decencies, with which I ſo charmed theſe ſtar-gazers, as they ſeemed as men turned into ſtatues, I had not been here long before my
+<pb n="9" facs="tcp:121186:14"/> crafty Mother comes to me (as accidentally) and chides me aloud with an angry counte<g ref="char:EOLhyphen"/>nance, commanding me to withdraw, and with all charging me to be more reſerv'd for the furture; I preſently followed her, leaving my gaping Spectators all in ſadneſſe for my abſence, but he that loved me beſt, (that he might be better ſatisfied concerning me,) knockt at our Door at night, and there meet<g ref="char:EOLhyphen"/>ing with our Landlady, demanded of her who I was? To which ſhe readily anſwered, (be<g ref="char:EOLhyphen"/>ing before inſtructed) that I was the Daughter of an honourable and wealthy forraigne Ma<g ref="char:EOLhyphen"/>tron, whoſe Father had been lately murdred, for which cauſe the old Gentlewoman (with this her faire Daughter) was come to <hi>Rome</hi> to be revenged on her Husbands Murderers, and that for that very cauſe, ſhe brought but little goods along with her, onely ſo much as to ac<g ref="char:EOLhyphen"/>commodate her whileſt ſhe ſtaid here.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>On my word this was a crafty nar<g ref="char:EOLhyphen"/>ration.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>My lover proceeded and demanded of her, by what meanes, he may talk with this reverend Matron? To which ſhe replyed, it was no eaſy matter, for the <hi>Venetians</hi> are very jealous of any action, that but ſavours of love, as are all the <hi>Italians,</hi> who are ſo jealous be<g ref="char:EOLhyphen"/>yond meaſure of their Wives, that they debar
+<pb n="10" facs="tcp:121186:15"/> them from all publick view, and permit them the liberty to ſpeak with few or none. I think Sir, that commonly reported ſtory of the <hi>Ve<g ref="char:EOLhyphen"/>netian</hi> Gentleman is enough to evidence what I ſay to be true, who placed a lock upon his Wives ſecrets, himſelfe keeping the key when he went forth, to be aſſured of her chaſtity in his abſence; And truly they have good rea<g ref="char:EOLhyphen"/>ſon for this their jealouſy, as I ſhall ſhow you, if you will give me leave to make ſome ſmall digreſſion on their conditions and manners. For as they are for the moſt part extraordinary witty, ſo are they beautifull and modeſt ſeem<g ref="char:EOLhyphen"/>ingly. By way of Proverb, it is ſaid of them that they are Saints in the Church, Angels in the ſtreets, Syrens in the windows, but are Goatiſhly wanton in their Houſes, which can<g ref="char:EOLhyphen"/>not otherwiſe be expected, if you conſider how careleſly they live, that they have nothing to trouble them, but that they are troubled with nothing. They are excellent good Face-mon<g ref="char:EOLhyphen"/>ders, they know how to embelliſh themſelves with all the advantages of Art, as painting, and other ſophiſticall helpes to a fallacious beauty, therefore they have a ſaying, that if God gives them a good proportionable ſtature of body, they will add beauty to it themſelves. I have been ſomething too long in their true character, purpoſely to make appeare how far
+<pb n="11" facs="tcp:121186:15"/> this young Lady you inquire after, ſurpaſſeth all the reſt of her Country Women. Are they ſeeingly virtuous? She is really ſo. Are their beauties ſophiſticated? Hers is naturall, and to conclude what they want of excellency, ſhe is abſolutely Miſtreſs of. Againe be not an<g ref="char:EOLhyphen"/>gry with the old Gentlewoman if ſhe have a ſmatch of her Countrymens jealous humour, for as it is her nature, ſo is it her provident care to have (if poſſible) <hi>Argus</hi> his hundred eyes to watch ſo pretious a pearle; yet for all this he could not chooſe but ask, whither I was a Virgin, yes ſaith our Landlady, and one that is ſo pure, and devout, that all my buſineſſe is to repeate Prayers all day, and meditate with her; whereupon he was ſo taken with me, as that he earneſtly deſired to be admitted into ſo much favour as to ſpeak with me. But ſhe ſaid that could not be for the premiſes after al<g ref="char:EOLhyphen"/>leag'd. Wherefore he deſired that ſhe would intercede for him, and ſo departed, which ac<g ref="char:EOLhyphen"/>cordingly ſhe did. For on a time when we are all three together, ſhe began to tell my Mother that there was a Gentleman both potent and rich, that bore a very great effection for me, who was able to raiſe the wheele of my fortune to the higheſt ſpoake, therefore (ſaith ſhe) I ſhall account it a principall ſigne of your wiſe<g ref="char:EOLhyphen"/>dome and circumſpection, if you will make
+<pb n="12" facs="tcp:121186:16"/> good uſe this your proffer'd good fortune in contributing ſome faire help to this his ex<g ref="char:EOLhyphen"/>traordinary affection. It was not for nothing that this peice of ſerpentine craft pleaded ſo ſtifly, having been before well greas'd in the fiſt, and my Mother hoping for no leſs, quick<g ref="char:EOLhyphen"/>ly condiſcended. The Gentleman being thus acquainted with his new happineſs, ſtudied nothing more then how to prepare us a brave collation. At which his whole diſcourſe to my Mother, was wholly concerning me, be<g ref="char:EOLhyphen"/>ſeeching her to permit him to viſit me ſome<g ref="char:EOLhyphen"/>times, and that ſhe would regiſter him among the beſt of her friends. My Mother ſeemed to conſult with her ſelfe about this propoſall a long time, and knowing well enough what ſhe had to doe, conſented (upon conditions) to his deſires. Now my young Gull, thinking he had removed all obſtacles, a night or two after came to me, thinking to have a nights lodging, and ſo as a parative, accoſts me with proteſtations, vows and oaths, as if he intend<g ref="char:EOLhyphen"/>ed to reward the loſſe of my Virginity with a Kingdome. Thus did he wooe me that he might reape the fruit of his expences, or ra<g ref="char:EOLhyphen"/>ther that of my youth, which he moſt deſired. Well I tould him that I ſhould ſay nothing at that preſent without deliberation, and there<g ref="char:EOLhyphen"/>fore I appointed him an other night to meet me; the time being come, he (fully aſſured of
+<pb n="13" facs="tcp:121186:16"/> his deſires) came, having before given order for a coſtly ſupper. The Table being furniſh<g ref="char:EOLhyphen"/>ed with all ſorts of rare viands, we placed our ſelves, but I bethought my ſelfe before how to behave my ſelfe at it. I did eate very little meat, and drank leſſe wine, unleſſe it was tempered with water. I complained ſometimes that I had over-charged my ſtomack, as a Lady did when ſhe had eaten a peſted of a lark at a great Feaſt, having before well ſtuft her belly with good beefe and cabbidge. Supper being ended, the wine he drank began to ſparkle in his veines, and my beauty intoxicating his braines, he could not forbeare his amorous imbracements; wherefore that he might act his manly part with ſecrecy he led me to my bed-chamber, and ſo incloſed us both in: and preſently in a trice diſrobes himſelfe, (ſo eager was his panting deſire in purſuit of the injoyment of its end) and ſo leapes into bed with an in<g ref="char:EOLhyphen"/>ſulting and triumphant joy, and preſently af<g ref="char:EOLhyphen"/>ter allures me with an innumerable company of enticements: Proteſting that I was the on<g ref="char:EOLhyphen"/>ly perſon to whom he dedicated his affecti<g ref="char:EOLhyphen"/>on, and that there was no woman in the uni<g ref="char:EOLhyphen"/>verſe could be richer then his promiſes could make me. But all theſe things were not avail<g ref="char:EOLhyphen"/>able to get me to bed to him, wherefore being impatient, he leapes out of bed and offer<g ref="char:EOLhyphen"/>ed to my view a thouſand female allu<g ref="char:EOLhyphen"/>ring
+<pb n="14" facs="tcp:121186:17"/> geſtures (which I muſt confeſſe the truth had almoſt overcome my craft and ſeeming chaſtity) and then hug'd me and kiſt me, but ſeeing all theſe things prevail'd nothing, he ſought to obtaine that by force which he could not obtaine by faire meanes: wherefore finde<g ref="char:EOLhyphen"/>ing his ſummons ſo forcible, I compounded on condition (for baſhfullneſſe ſake) that he would turne his head to the wall whileſt I diſ<g ref="char:EOLhyphen"/>rol'd my ſelfe, and then putting out the candle, I came to bed to him, but withall telling him that I could by no meanes yeild to commit ſin, or derogate from any Anceſtors in looſing that long and ſafe preſerved ineſtimable trea<g ref="char:EOLhyphen"/>ſure; He regarded little what I ſaid, his minde being Preoccupied in deeper affaires, but in<g ref="char:EOLhyphen"/>circled me ſtraight way in his armes, hugging me as the Ape her younglings, yet for all this I held faſt that prerogative which all Women have, and may uſe in ſuch incounters, let them pretend what they pleaſe; ſo that my <hi>Amoriſt</hi> was like an other <hi>Tantalus,</hi> though he held me faſt in his armes, yet I would not let his tremb<g ref="char:EOLhyphen"/>ling needle touch that Pole its point ſtood a<g ref="char:EOLhyphen"/>gainſt with ſo much vigour. Then he fell a flattering me, calling me his ſoule, the delight of his life, the delightfull hope of his expiring ſoule, and the ſoule of his future bliſſe (ſuffer me ſaith he) to injoy that, I have ſo longed for,
+<pb n="15" facs="tcp:121186:17"/> let me not dye with thirſt, whileſt I am ſo neer the Fountain, with many the like ex<g ref="char:EOLhyphen"/>preſſions concluded with bitter ſighs.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>How hard was thy heart, and how inſenſible wert thou, certainly had I been in thy caſe, I ſhould have even <hi>melted</hi> at his diſ<g ref="char:EOLhyphen"/>courſe and geſtures; when I was young, it was but ſtrike, and I preſently took fire, I was very free of my favours, yet I think I loſt not by it, for beſides money, I had pleaſure to boot.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>I could be content to be of your mind, and make uſe of all proffer'd opportu<g ref="char:EOLhyphen"/>nities to ſatisfie and content my ſelfe, but you muſt underſtand I was wiſer at that time then the reſt of our Sex, for I preferd profit before that momentary delight, well knowing that if he had ſatisfied his deſires, he would not have ſo much eſteemed me, and ſo have beene defective in paying me my promiſed reward, wherefore I kept him off at a diſtance, but it had like to have coſt me deare. For growing furious by my deniall, and ſeeing himſelfe fruſtrated of all meanes, his breaſt ſwell'd in<g ref="char:EOLhyphen"/>to deſperation, and therefore changed thoſe ſweet and heart-melting expreſſions, into bitter and horrid threats, ſwearing withall, that unleſſe I would yeild, and that quickly, he would renounce his former affection, and
+<pb n="16" facs="tcp:121186:18"/> ſtrangle me in the bed, or ſtab me with his Ponnyard, there ready for the purpoſe, and preſently to make good ſome part of his threats laid hold ou my throat with both his hands, but feeling the ſoftneſſe of my body, he was ſo overcome, as that he, that but even now breathed nothing but death, forgets what he ſaid, and fell again to his inticements, hope<g ref="char:EOLhyphen"/>ing thereby to attain his ends, deſiring me with the full bent of his ſoul, that I would conſider his condition, and put an end to his torments. But ſeeing this would not doe, he leaps out of bed, and puts on his cloaths, and ſo indeavour'd to be gone. Now I being uncertain of what might follow, I intreated him to return, withall telling him, that I was at his devotion, and if he pleaſed, he might conſummate his felicity. The foote returnes upon theſe enchanting expreſſions, and re<g ref="char:EOLhyphen"/>enters his former ne<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Such ſpeeches from ſo faire a Crea<g ref="char:EOLhyphen"/>ture, are enough to tempt a Saint, to act the ſin of concupiſcence.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>But heare what this Novice ſaid, if you feare that the wounding of your virginity will put you to any pain, take notice, that it is not ſo much as the biting of a flea, I that breath the ſame ſoule that you do, and am made of the ſame fleſh, how think you, is it
+<pb n="17" facs="tcp:121186:18"/> poſſible then for me to <hi>wound</hi> you with a <hi>fleſhly weapon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>I confeſſe when I was a maid, I did not feare much this carnall <hi>Inſtrument,</hi> but I found to my ſorrow that at firſt it pained me to the purpoſe. <hi>Pricking</hi> me till it drew blood from me; nor would I ever had to do with it againe, had it not been for the recompence it made me in exceſs of delight, I tooke thereby.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Yet for all this I would not let him feele that, which he ſo much deſired to in<g ref="char:EOLhyphen"/>joy. Thus paſt he away the night like a gamſter in this, that he had loſt his money and his ſleep and time to a bad purpoſe. Wherefore the ſecond time he leaped out of bed, and did put on his cloaths, and as he was very ſorrowfully looking out of the win<g ref="char:EOLhyphen"/>dow, he eſpied my Mother and Landlady walking in the Garden. Whereupon he ſud<g ref="char:EOLhyphen"/>dainly cryes out to them, asking them what he had done them of hurt, that they ſhould be the meanes of his torment. Certainly (ſaith he) I would have found a more mild creature in African denns. Whereupon my Landlady perceiving by his lookes and ge<g ref="char:EOLhyphen"/>ſtures that he was almoſt horne mad, ſhe came to him, and comforted him, ſaying that now he had ſufficiently prooved her cha<g ref="char:EOLhyphen"/>ſtity,
+<pb n="18" facs="tcp:121186:19"/> and might know now how difficult it is to ſcale a true virgins fort. In the meane time I aroſe and put on my cloaths, &amp; ſo with<g ref="char:EOLhyphen"/>drew my ſelfe into my cloſet, leaving them to<g ref="char:EOLhyphen"/>gether to conſult about this adventure. But as for my Love, his choler did ſwell to ſuch a height, that he ſwore he would never ſee me nor the houſe againe, and ſo de<g ref="char:EOLhyphen"/>parted.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Surely you loſt him then by your obſtinate behaviour.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>No; I bound him by this the faſter to me. For by how much the more the paſſio<g ref="char:EOLhyphen"/>nate mind meets with obſtacles, (as denials) by ſo much the more is it vehement in the pro<g ref="char:EOLhyphen"/>ſecution of the complement of its deſire. As appeares by this that followes, for he had not beene abſent above an hour, before in came a Taylor from him, almoſt loaden with Silkes, Purple, and Scarlet Cloath: com<g ref="char:EOLhyphen"/>manding him to cut me off, as much of each, as would commodiouſly inveſt me, hoping by this meanes he might tempt me to crowne his deſire. Upon the receipt of this preſent, I conſulted with my Mother, what was beſt to be done, ſhe told me that by all theſe cir<g ref="char:EOLhyphen"/>cumſtances, it was evident enough, how great his affection was for me, and that as he had done ſo much, ſo ſurely he would do
+<pb n="19" facs="tcp:121186:19"/> more, rather then would loſe his expenies and the hope of obtaining his will. But ſhe adviſed me withall to be a little more pliable and complacentiall to him. Then did I go and dreſſe my ſelfe in my beſt at<g ref="char:EOLhyphen"/>tire, knowing that he could not ſtay long from me. I was no ſooner dreſt, but he knocks at the doore, and I with a ſmiling countenance went halfe way downe the ſtaires to meet him; where I declared to him, with the very quint-eſſence of diſſimulation, how ſmitten I was to the heart at his bid<g ref="char:EOLhyphen"/>ding adieu, that had it not beene for my baſhfullneſſe, I had aſſuredly necalled him. However, now being fully convinced of my error, I was reſolved that on the next night to yeild my ſelfe up to his imbraces, and that I was willing to indure or ſuffer any thing for his deare ſake, and withall aſſur'd him, that now he was in a capacity to triumph o-over all his envious Rivalls. This ſubtle narration I ſealed with a long breath'd kiſs. Againe he takes order for a coſtly ſupper, which was prepared of things both for ſatisfying hunger, but principally of things that would make us potent and valiant in loves combates. He could hardly eate a<g ref="char:EOLhyphen"/>ny thing, the thoughts of his future pleaſure did ſo much occupie his ſenſes, wherefore
+<pb n="20" facs="tcp:121186:20"/> he cauſed the table-cloath to be taken away ſomewhat of the ſooneſt, and ſo away we went to bed. I would have deceived him a<g ref="char:EOLhyphen"/>gaine, had I ſeen any probability of good in it, wherefore being not in a capacity to uſe more ſlights, I yeilded my ſelfe as van<g ref="char:EOLhyphen"/>quiſht: yet I remembred what part I had to act, to wit an unſpotted virgin. There<g ref="char:EOLhyphen"/>fore did I much and often complaine of the wrong he did me. Ah me! moſt miſerable wretch that I am, how am I diſpoiled of my honour? How ſhall I looke any man a<g ref="char:EOLhyphen"/>gaine in the face without bluſhing? Have I not cauſe to hate my ſelfe for my immode<g ref="char:EOLhyphen"/>ſty. My Lover thought my complaints were reall, therefore to ſtop my mouth, he pul'd out of his pocket a purſe, preſents it to me, as a reward in part for my loſt virginity. There was in it about forty pieces of gold. I ſeemed to refuſe it at firſt, making him believe, how ſmall that recompence was in compariſon of that pleaſure he poſſeſt of mine.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>I ſhould have feared he would not have offred it againe.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>I'le aſſure you I did miſtruſt it, therefore I accepted it, whereupon he fell a freſh to the renewing his pleaſure with a full career.</p>
+            </sp>
+            <pb n="21" facs="tcp:121186:20"/>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>I; but did he not perceive that you had before loſt your maiden-head, and that the token of virginity (which moſt know) was not there.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Very good; but doſt not thou know (ſilly woman) that few men know what belong to a virginity, as wee of that certainty of being gotten with child? Beſides, had he been ſo knowing, is it not eaſy to per<g ref="char:EOLhyphen"/>ſwade a credulous man to any thing? But for feare of all ſuſpition, my mother had mended it, as well as ſhe could, by giving me things to contract my <hi>Privy Parts,</hi> as Cypreſs, Moſ<g ref="char:EOLhyphen"/>chus, Ramich, with many other things that are aſtringing. In the morning my Mother came to ſee how we did, after our mutuall injoyments, and found us of two, incoporated into one, ſo cloſe were we linct together; my Mother gave the Gentleman the morning ſalutation, and bleſſed me with her mater<g ref="char:EOLhyphen"/>nall benediction. As ſoone as I ſaw her, <hi>I</hi> fell a kiſſing and hugging my Lover with vehement affection in my Mothers preſence, my Mother began to tell the Gentleman, that ſhe had that very morning received let<g ref="char:EOLhyphen"/>ters, by which ſhe underſtood of a neceſ<g ref="char:EOLhyphen"/>ſity to leave Rome within two or three dayes. Then ad<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſſing her ſelfe to me (ſaid ſhe) Daughter let us as willingly goe
+<pb n="22" facs="tcp:121186:21"/> as our loving and noble kindred would have us, and ſo you may lay my aged bones in the Sepulchre of my Anceſtors, there to reſt with them. I confeſſe I am loath to leave this place, neither would I, could I ſeel my patrimony that is in my owne country, that we might buy with that mo<g ref="char:EOLhyphen"/>ney, a houſe here. Preſently I interrupting her, ſaid, that if ſhe was reſolved to depart, I was ſorry that I muſt be diſobedient, tel<g ref="char:EOLhyphen"/>ling her that was the onely way for me to live; No Mother, know that I muſt ſoon<g ref="char:EOLhyphen"/>er dye, then be deprived of this my one<g ref="char:EOLhyphen"/>ly hope of life and joy of my heart: Then did I imbrace him, imploring his aſſiſtance with teares in my eyes. My Cully was ſo taken with me and my ſugar'd words, that he forthwith promiſed before my Mother, that before a day paſt, he would provide both a houſe and furniture for us if we would not depart, and truly he was as good as his word, for on the morrow he came and diſ<g ref="char:EOLhyphen"/>charged our Landlady of what we were in<g ref="char:EOLhyphen"/>debted, and coacht us to ſumptuous houſe where all the houſhold-ſtuffe was in the beſt faſhion, befitting a noble Man.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>I cannot but adm<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e at the folly of this Man, in ſpending <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> much on you, whereas he might have ſatisfied all his ſen<g ref="char:EOLhyphen"/>ſes
+<pb n="23" facs="tcp:121186:21"/> at a farre cheaper rate.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>O Siſter I perceive you do not un<g ref="char:EOLhyphen"/>derſtand what abſolute ſoveraignty hath Cu<g ref="char:EOLhyphen"/>pids dart over the perſon it hits; It hath wrought ſuch wonderfull effects on ſome Men, as to cauſe them to leave the beds of their moſt fair and beautifull wives, (a happi<g ref="char:EOLhyphen"/>neſs that ſome would venture their lives for) &amp; profeſſe love to ſome ſilly Kitchin Maid. I believe neither you, nor I, are rightly a<g ref="char:EOLhyphen"/>ble to dive into loves myſteries. This Man (had not his ſenſes beene beſotted by me) certainely he might have underſtood his er<g ref="char:EOLhyphen"/>rour and folly, and my unworthyneſſe; for though thoſe of our profeſſion are for the moſt part very beautifull and well-ſpoken, yet how depraved are our natures, how cor<g ref="char:EOLhyphen"/>rupt and rotten? how inconſtant and de<g ref="char:EOLhyphen"/>ceitfull? how do we moſt hurt them, that we moſt ſeem to love: I tell thee as a ſe<g ref="char:EOLhyphen"/>cret, that, that Man is moſt happy whom we moſt hate and disdaine.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>As for my part I never profeſt much love to any man in my life, but I had ſome extraordinary deſigne on him, you may be ſure it was not for his profit; ſometimes when I ſaw any my lovers to be full of mo<g ref="char:EOLhyphen"/>ney, then would <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> invite him to ly with me, and then pick his pockets, other times
+<pb n="24" facs="tcp:121186:22"/> when he had good cloaths, would I invite him to the like, and being aſleep, would I afore acquaint ſome one of my Ruffians to come and take them from him, awaking him firſt, that he might ſee it was none of my fault, with many other crafty tricks I had to inrich my ſelfe by their ruines.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>The truth of it is, we have no ſuch thing as love or affection, but to our ſelves. I never valued how many I utterly undid, if I might but pleaſure and content my ſelfe. Nay I have made it a paſtime for me to ſee my Lovers wound and ſlay one the other in conteſtation, who ſhould be moſt beloved by me, whereas I loved neither for loves ſake. At that very time that this dotard loved me, I was ſo provident as to inſnare others like<g ref="char:EOLhyphen"/>wiſe. One among the reſt was as fooliſh as this Man, for once coming to our Houſe, and finding me along, profeſt the greateſt affection that Man, could poſſeſſe, alleadging that he ſhould dye, if I did not pitty him. After I had conſidered that this my firſt love had ſpent all his eſtate upon the matter, and that this other would, and was able to ſpend largely and laviſhly upon me, then did I be<g ref="char:EOLhyphen"/>gin by little and little to withdraw my affe<g ref="char:EOLhyphen"/>ction from my firſt Lover, and did ſeemingly ſettle it on the other. My former friend had
+<pb n="25" facs="tcp:121186:22"/> not onely ſpent his owne eſtate, but that too of his Creditors, as much as poſſibly he could get upon truſt, ſo that being not able to pay his debts, he was baniſht out of <hi>Rome</hi> (accord<g ref="char:EOLhyphen"/>ing to the cuſtome of the City) and ſo the Law freed me from farther trouble or impor<g ref="char:EOLhyphen"/>tunity of this prodigal Ignoramus. This ſe<g ref="char:EOLhyphen"/>cond likewiſe (becauſe I will not be too te<g ref="char:EOLhyphen"/>dious) I fleeced of all his ſubſtance. I made this my grand maxim, to proportion the qua<g ref="char:EOLhyphen"/>lity of my favours to the quantity of my Lo<g ref="char:EOLhyphen"/>vers crowns. The next that came was a craf<g ref="char:EOLhyphen"/>ty and proud <hi>Spaniard,</hi> who was ſo highly conceited of his owne abilities, that at every ſtep, turning up his muſtachio<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, he ſeemed to ſpurne the World in contempt. His temper (as is the reſt of his Countrymens) is hot and dry, which makes them prone to leachery; it was that which made him ſo beyond mea<g ref="char:EOLhyphen"/>ſure doat on my face. But becauſe I knew his nature to be beyond meaſure jealous, I valued him for nothing but his gold, which he had in good plenty.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>I have heard that the Spaniard is ſo jealous, as he will not ſuffer his Wife to con<g ref="char:EOLhyphen"/>verſe with any, no not ſtir abroad unleſſe it be to her devotion, and then not without a ſpye to watch her actions. This paſſion (as it is thought) they borrowed of their neigh<g ref="char:EOLhyphen"/>bours
+<pb n="26" facs="tcp:121186:23"/> the <hi>Moores.</hi> For it is enacted as a Law among them, that it is death for any toſee a Xeriffes wife, and it is death for his Concu<g ref="char:EOLhyphen"/>bine too, if not at the firſt ſight of a man, ſhe cry not out. Since I have ſpoken of the Men, let me but mention a word of the Women. They are ſober, and very loving, of a delicate ſoft skin, but ſome thing tawny. They are extraordinary patient in travaile, and very luſty after it, in ſo much that they commonly lye in but three days. Again I remembred a Proverb concerning theſe men, which made me quite out of concept with them. For it's ſaid the <hi>Spaniard</hi> is at enmity with <hi>Venus. <g ref="char:V">Ʋ</g>t Galiorum penes ſunt exigui tamen oblongi, ſic Hiſpanorum, et breves et exigui.</hi> Therefore the <hi>French</hi> have got the ſtart of them in that inſtrument, though neither of them can boaſt of their ſufficiency. This Man (I ſay) I per<g ref="char:EOLhyphen"/>mitted to uſe me at his pleaſure, (as long as he was worth any hing, but he becoming a Bankrupt, I turn'd him off. Thus lived I, ex<g ref="char:EOLhyphen"/>cluding none that could give any thing wor<g ref="char:EOLhyphen"/>thy the receiving. By this time I became an excellent proficient, being extraordinarily improved in ſo ſhort a time, ſo that I became abſolute Miſtreſs of my art, or rather Pro<g ref="char:EOLhyphen"/>feſſor whole troopes of young heires, well mo<g ref="char:EOLhyphen"/>nyed
+<pb n="27" facs="tcp:121186:23"/> to me, but ſent them away empty. I could antificially take from one, and give to the other, and in the end deceive them both. If I obſerved any had ribbands or good Hand<g ref="char:EOLhyphen"/>kerchiefes, I could have the boldneſſe to take them by violence as my tribute or their forfei<g ref="char:EOLhyphen"/>tures. If I took notice of any thing that was of a greater valew, I would take occaſion to praiſe it or the workmanſhip, and if upon this they did not beſtow it on me, then would I uſe my naturall confidence in asking them for it. Before they left me at any time, I would make them ingage for another ſet and ſpeedy meeting, and to make them the more deſi<g ref="char:EOLhyphen"/>rous of it, I would ſuggeſt to them how mer<g ref="char:EOLhyphen"/>ry we would be then? what raviſhing delight we would mutually injoy, &amp;c. When we met, then would I conſider what I wanted to compleat my felicity in the injoyment of the pleaſing of all my ſenſes. Whither ſome coſt<g ref="char:EOLhyphen"/>ly or rare diſh, wine, or muſick, all which would I quickly obtain by perſwading them it was for their greater delight, and credit.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Now I conſider what a foole I was at ſixteen yeares old; age enough to have made me more wiſe for my profit and pleaſure. For though I was skittiſh enough, yet I was very reſerv'd. Whileſt I lived under my Fathers wing, there was a young Gallant profeſt him<g ref="char:EOLhyphen"/>ſelfe
+<pb n="28" facs="tcp:121186:24"/> my ſervant, though I loved him in<g ref="char:EOLhyphen"/>tirely, yet did I ſpeak worſt of him I loved beſt, and appear'd ever before him with a ſober and ſtrange countenance. But now hear the extremity of my folly. For once getting me in a good humour, and a convenient place (and he being a cunning warriour) knowing right well, that a Fort is eaſier to be taken in one corner then in an other) there (I ſay) he aſſaulted my ſeemingly impregnable Ca<g ref="char:EOLhyphen"/>ſtle, and took it. Ever after (the greater my folly) I could intreat him, that intreated me before. I that before lockt and barr'd my chamber door, did now greaſe the hinges thereof, that my Father might not diſcover us by its creaking. So great an impreſſion did this firſt injoyment make, that I delight<g ref="char:EOLhyphen"/>ed altogether in extreames. And herein is the Proverb verefied; that winſing colts, when once well <hi>broken,</hi> they proove excellent good <hi>Hacknyes,</hi> you may kill but not <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yre them.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Then I was of an other temper. For I could not be contented with theſe bare things; Seeing, ſpeaking, kiſſing, no nor <hi>feeling,</hi> (which are but preparatives.) But my appetite prompted me on to a more neer and free injoyment of: thoſe delights, this Pro<g ref="char:EOLhyphen"/>logue put me in minde of. But to goe on with my ſtory; the next Amoriſt I captiva<g ref="char:EOLhyphen"/>ted
+<pb n="29" facs="tcp:121186:24"/> was a quick witted, yet harebraind <hi>French<g ref="char:EOLhyphen"/>man,</hi> he was very vehement in his affections, as he is precipitate in all his actions. He came very Apiſhly and lightly clad to me, which did too much demote his buffonny, and in<g ref="char:EOLhyphen"/>continency. He thoughtwhen he came to me to get up and preſently ride, thinking he had to deale with one of his owne Country-wo<g ref="char:EOLhyphen"/>men, with whom at the firſt fight a Man may be acquainted, and at the firſt acquaintance, he may obtain the favour of a private <hi>en<g ref="char:EOLhyphen"/>trance.</hi> At your firſt interchange of ſpeech, with them they will be as familiar, as if a man had been bred and born with them, and be ſo full of chat, as if they intended never again to be ſilent. They are generally as light in carriage as in habit. That is the rea<g ref="char:EOLhyphen"/>ſon the King of <hi>France</hi> hath ſuch a multi<g ref="char:EOLhyphen"/>tude of ſubjects, but moſt of them poor, be<g ref="char:EOLhyphen"/>cauſe a great many of them Baſtards. Thus have I characteriz'd <hi>Monſieur</hi> and his Madam. This <hi>Sieur des les Foutours,</hi> thought me to be ſome ſilly novice, and accordingly would have put a trick upon me, but he was made know experimentally the Proverb was true that ſays, that the <hi>Italians</hi> are wiſe before an action, the <hi>Dutch</hi> while they are acting, but the <hi>French</hi> when a thing is done, and ſo his wiſedome is to ſmall purpoſe. After (as he
+<pb n="30" facs="tcp:121186:25"/> thought) he had ſufficiently gain'd my affe<g ref="char:EOLhyphen"/>ction by his promiſes and expences, he was very importunate with me to goe to France with him, (but he intended to tell me before we ſhould come thither) which pro<g ref="char:EOLhyphen"/>poſall after I had many objections cleered by him, I condeſcended to: But (as my good fortune was) I was told his deſigne by one of his corrivalls, wherefore to bring about hap<g ref="char:EOLhyphen"/>pily my intended purpoſe, I ſeemed to take no notice of his plot, but would be often diſcourſing of our voyage, at length <hi>I</hi> per<g ref="char:EOLhyphen"/>ceiving that the time drew neere for our de<g ref="char:EOLhyphen"/>parture <hi>I</hi> came to him and told him, that my cloaths were at pawne, and unleſſe <hi>I</hi> did ſpee<g ref="char:EOLhyphen"/>dily fetch them, they would be forfeited, whereupon he greedily anſwered my de<g ref="char:EOLhyphen"/>mands with a good ſum of money, believe<g ref="char:EOLhyphen"/>ing that the merchant would pay him againe with intereſt for ſo rare and beautifull a crea<g ref="char:EOLhyphen"/>ture: Two dayes before we wee to goe, <hi>I</hi> told him my houſe-rent likewiſe muſt be paid, which he did at large, according to a<g ref="char:EOLhyphen"/>greement between my Landlady and himſelf. Now ſeeing <hi>I</hi> had no more pretences to get money of him, <hi>I</hi> removed my lodging, and ſo left this Pigg-wiggin in the lurch.</p>
+            </sp>
+            <sp>
+               <speaker>Antonia.</speaker>
+               <p>Since I perceive you traded with ſo many nations, pray what Coun<g ref="char:EOLhyphen"/>try
+<pb n="31" facs="tcp:121186:25"/> man was the next that came.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>He was an Engliſh-man, of a come<g ref="char:EOLhyphen"/>ly feature, and of a gracefull and magnani<g ref="char:EOLhyphen"/>mous aſpect, who was both brisk and faire, gallant and curteous, active, ſprightfull, and cheerefull: I confeſſe I had not heart to gull this man as I would, for if there was any love within me, it was for him; I was not a little proud at this conqueſt, conſidering how farre Engliſh-women excell all Na<g ref="char:EOLhyphen"/>tions, in the excellencyes both of minde and body, that if you would make a compleat body (according to the Proverb) chooſe a Dutch-womans lower parts, the French<g ref="char:EOLhyphen"/>mans middle, but above allan Engliſh head to crowne the reſt; as they excell in beauty, ſo do they in their prerogative: though they for the moſt part are very inſenſible of its worth, we are enough ſenſible (to our ſor<g ref="char:EOLhyphen"/>row) for I thinke really that proverb would be experimentally true, if there was a bridge over the narrow Seas, England would not be capacious enough to containe the women of Europe that would flock thither.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>I perceive you have read much.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>That was not the greateſt part of my ſtudy, yet by it I was willing to under<g ref="char:EOLhyphen"/>ſtand the various natures of men, that I might the better put in practice what I had
+<pb n="32" facs="tcp:121186:26"/> read. This my noble lover ſpent very free<g ref="char:EOLhyphen"/>ly upon me, and in me; ſo that I may ſay, till now, I never knew what it was to be an Epicurean: We lived a long time very jovi<g ref="char:EOLhyphen"/>ally together, till (a pox on't) a pocky bu<g ref="char:EOLhyphen"/>ſineſſe diſturbed our pleaſures; for it ſeemes he was amorous of other women, (or they of him) as well as my ſelfe: Among whom he got a terrible clap, and ſo communicated the malignity of it to me, which ſo pepered us both in a ſhort time, as that we ſympa<g ref="char:EOLhyphen"/>thiz'd with the zodiack, having on our bo<g ref="char:EOLhyphen"/>dies (as the <hi>ſigne</hi> of this foule diſeaſe) the <hi>Cancer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>What can he expect leſſe, who per<g ref="char:EOLhyphen"/>takes of the nature of a Dog, in this, that he takes his pleaſure with every Bitch he meets, perhaps one that he never did, nor ever ſhall ſee again, with whom many times he may learne more of the <hi>Pockey art</hi> in one houre, then by being moderate, he may in ſeven yeares.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>And truly (Siſter) <hi>I</hi> believe ſhe is paid home in the ſame coyne that makes her — a ſtable for every Aſſe to litter in, ſometimes ſhe may meet withall a <hi>Running Nag.</hi> Cer<g ref="char:EOLhyphen"/>tainly there is nothing that renders our Sex more odious, then ſeriouſly to reflect on their actions in Bawdy-Houſes. Modeſty that
+<pb n="33" facs="tcp:121186:26"/> ſhould be a Womans glory, is here hence ba<g ref="char:EOLhyphen"/>niſht; nothing but what is laſcivious and wanton muſt be entertained there. In this place may a man finde vice ſo ſet forth to the life, that if the ſight thereof will not deter him from committing this ſin, I know not what will.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>For all thy preaching, I really think that it was not thou that left firſt this bitter-ſweet fin, but it did thee, and I think thou doeſt wiſh well to it ſtill. As for my part though I ſmarted ſoundly (the poyſonous quality of which fowle diſeaſe being not yet out of my bones) I ſay for this ſin of Lechery, yet couldI not leave it, nay I was ſo accuſto<g ref="char:EOLhyphen"/>med to it, that it proved a ſecond nature to me, if I had faſted but two days from it, it was as bad as four days, living on bread and water. As long as my beauty laſted, and was not impayred, I had Cuſtomers enouw for my <hi>Ware</hi> and <hi>Commodities.</hi> At this time I in<g ref="char:EOLhyphen"/>ſnared a young Merchant in my <hi>Pitt fall.</hi> I countenanced him the more, becauſe wealthy and not well knowing the getting of his mo<g ref="char:EOLhyphen"/>ney, and ſo by that, be the freer to ſpend it. What money he lent me, I paid him in kind<g ref="char:EOLhyphen"/>neſs, as in lying with me at his pleaſure. But I (finding that by his oft imployment, his love grew cold) conſulted with my ſelf how I
+<pb n="34" facs="tcp:121186:27"/> might raiſe his former love and eſtimation to the ſame height, and after deliberation I found no way better then to affect the Man with jealouſy. Wherefore I cauſed my Pimp toget ready a couple of Pheaſants, a couple of Partridges, and a couple of cram'd Capons, juſt about the time that my Love and I ſhould be at dinner, giving him inſtructions what to ſay. At the time appointed, he knockt at the door, and I commanded him to be admitted, then did he come and preſent the Fowle with a low obeiſance to me, ſaying, Madam my Lord <hi>Don Alonzo de Monte Turco,</hi> hath ſent this ſmall remembrance of that great affection he beares you, deſiring you to eate them for his ſake. Whereupon I ſeeming to be much troubled, ſaid to him, Pray tell your Maſter that I thought he had ſufficiently known that I am ingaged too far to the Gentleman, not to accept of his courteſies, and I for my own part thought he had more of virtue, then by theſe and ſuch like meanes to ſeek to violate the chaſte purpoſes of honeſt Matrons, and ſo thus tell him. Then did I kiſs and hug may Merchant, making him believe that he was the ſole loadſtone of my affections, which he did as readily believe for a truth, as I was willing at any time to tell a lye for my owne profit. He was ſo taken with this may feigned
+<pb n="35" facs="tcp:121186:27"/> conſtancy, that the next day he clothed me in rich new apparell.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>How ſtrangely was this foole de<g ref="char:EOLhyphen"/>ceived. For that Woman that proſtrates her ſelfe to every one, cannot truly love a<g ref="char:EOLhyphen"/>ny.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Seeing him ſo bravely deluded, I farther told him, that I had rejected ſeven Counts and Lords (before this <hi>Spaniſh Don</hi>) and all for his deare ſake. When he at any time lay with me, then would I laugh hearti<g ref="char:EOLhyphen"/>ly, ſaying I cannot chooſe but pitty a young Gentleman that waites my comeing now in ſuch a place, an other in ſuch a place, whome I have all purpoſely deceived that they might not interrupt our pleaſures. The foole was ſo over-joyed at it, that he doubled my pen<g ref="char:EOLhyphen"/>ſion, and rewarded my affection with ſeve<g ref="char:EOLhyphen"/>rall rich gifts. Now was it high time to feign my ſelfe with child. Therefore I continually would pretend to have qualmes come over my ſtomack, if I did eate any thing, I would vomit it up. I would complain I had loſt my taſte, all ſweet things ſeeming bitter to me. At length I would eate nothing but what was extraordinary rare and dainty; ſometimes I would long, you may be ſure not for very common things. NOw he concluded <hi>I</hi> was with child, and his beliefe was confirmed by
+<pb n="36" facs="tcp:121186:28"/> an affirmative judgement of a Dr. of Phyſick whom he askt; at which he was not a little joy'd. Now was his whole minde taken up in providing God-fathers, and all things ne<g ref="char:EOLhyphen"/>ceſſary for my lying in. Neither was there any thing (that <hi>I</hi> but nam'd) which <hi>I</hi> had not. <hi>I</hi> think if <hi>I</hi> would have had one of his eyes <hi>I</hi> ſhould, rather then to have miſcarried. When <hi>I</hi> thought <hi>I</hi> had ſufficience of both goods and money, then did <hi>I</hi> cauſe my Mo<g ref="char:EOLhyphen"/>ther to go to him, and with a ſad countenance tell him, that <hi>I</hi> fell by a miſchance and had miſcarried, and with all that <hi>I</hi> was very ill upon it. He was like to run diſtracted upon this ill news. And being not able to reſt quiet, he came to me that we might mutually condole the loſſe. When <hi>I</hi> thought <hi>I</hi> had la<g ref="char:EOLhyphen"/>mented enough, <hi>I</hi> began to comfort him by the hopes of having another, and ſo at laſt he reſted quiet. A little after this, there was a bragging Souldier did often viſit me, ſo fu<g ref="char:EOLhyphen"/>rious he was that his very ſight would have frightned a Woman. This <hi>Rhodomontado,</hi> or <hi>Hobgoblin</hi> Souldier having inricht himſelfe by Plunder, thought no place better to ſpend his ill gotten goods in, then in my Houſe. After we had ſpent ſome part of his money in riot and pleaſure, <hi>I</hi> bethought my ſelfe, how <hi>I</hi> might have the other par<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or my proper
+<pb n="37" facs="tcp:121186:28"/> uſe. And thus it was, <hi>I</hi> appointed an Hector to come and demand of me ten peeces for lin<g ref="char:EOLhyphen"/>nen cloth I bought of him, at ſuch a time when this amorous Thraſo was with me. He comes (as fortune would have it) when we were in the mid'ſt of our dalliances, and re<g ref="char:EOLhyphen"/>quires of me this ten pound, I preſently told him he ſhould have it, whereupon I bad my Maid fetch it out of ſuch a Trunk, and ſo gave her a falſe key, after a little while, ſhe came to me, and told me that ſhe could not unlock it. I ſeeming to be very angry, askt her whither like a baggadge ſhe had ſpoyled the lock? and ſo went my ſelfe with my Lo<g ref="char:EOLhyphen"/>ver, but neither of us could open it, where<g ref="char:EOLhyphen"/>upon I deſired him (rather then to break o<g ref="char:EOLhyphen"/>pen the lock) to lend me ten pieces, which he did pay to my Hectorian Linnen-draper. Now did <hi>I</hi> pretend that <hi>I</hi> had left the right key at a Neighbours Houſe, whereupon <hi>I</hi> told him <hi>I</hi> would goe and fetch it, and ſo repay him his money. But <hi>I</hi> ſtaying ſomewhat long (according as <hi>I</hi> intended) he would have broken open my Trunk; Now my Maid a ſubtle young Whore, perceiving his intent, cryed out, theeves, theeves, the Neighbours hearing it, ran into my houſe, ſeaz'd on the fellow in the action, and ſodragg'd him to Priſon, who <hi>I</hi> think by this time is gon to Hell in a ſtring.</p>
+            </sp>
+            <pb n="38" facs="tcp:121186:29"/>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Now I remember I ſerv'd a Country fellow as bad a trick; for comming into this City, &amp; having not uſually ſeen extraordina<g ref="char:EOLhyphen"/>ry beauties, it chanc't the firſt he could affect, was my ſelfe; whereupon, that he might court me nobly, he ſold his Vineyard, a<g ref="char:EOLhyphen"/>mounting to a hundred pound, which was his whole eſtate; I ſeeing the money, I pre<g ref="char:EOLhyphen"/>tend to like the man wonderfully, praiſing him, and proteſting to him, that his hand<g ref="char:EOLhyphen"/>ſomeneſſe and good qualities, had ſo con<g ref="char:EOLhyphen"/>quered my heart, as that I was very willing to be his obedient wife. The Man hearing this, buyes all ſorts of houſhold-ſtuff immediate<g ref="char:EOLhyphen"/>ly, not ſparing any coſt, either to delight the eye, or voluptuouſly to pleaſe the pallate. So that in a ſhort time his Money was almoſt conſumed. Now to rid my hands of him, I did cauſe my Champion (which I kept for ſuch purpoſes) to come when my Lover was with me, and pretending to be his Rivall, draws upon him, making a paſſe or two at him, but giving him liberty enough to flye, if he ſo pleaſed, which he did very willingly, the other calling after him, ſaying that if e<g ref="char:EOLhyphen"/>ver he found him there againe, he would make him meat for Crow's; and I thinke he was ſo terrified at theſe menaces, that I never ſaw him after. Thus have <hi>I</hi> made one nayle
+<pb n="39" facs="tcp:121186:29"/> drive out another, and ſo ſerve my owne ends by both.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>When my Lovers at any time came to ſup with me, I would be very carefull not to want either Cards, Dice, or Tables, or ſome other Game, to cheat theſe fooles of their moneys: for <hi>I</hi> was well verſed in all the arts of Gaming. Having ſupt, I would aske them to play a Game at Cards, for a Sack-Poſſet, Sweet-meats, or the like: But <hi>I</hi> would not play unleſſe they playd likewiſe for dry Money. At which I would very often be a very great winner; for to draw on ſome well-feather'd Gooſe, I would willfully loſe, but to be ſure I would at laſt ſuck his pockets drie. Notwithſtanding, they would at o<g ref="char:EOLhyphen"/>ther times adventure to play with me, for Gamſters can aſwell abſtaine from playing, as a Woman can turne conſtant and faithfull<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> But ſtill they had the ſame bad ſucceſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>But I doe not a little admire, how thou could'ſt give content to ſuch a number of men? whereas no doubt many of them, had the ſame deſire to injoy thee, in one and the ſame night.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>
+                  <hi>I</hi> brought I to paſſe eaſily enough, firſt for my pleaſure ſake, for what Woman is ſo affectionate, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be ſatisfied with one Man. Surely it would require the ſtrength
+<pb n="40" facs="tcp:121186:30"/> of Atlas ſhoulders, and Hercules his back, to ſtand to ſo hard a taske, as the ſatisfying of the amorous emotions of a luſtfull Woman. And ſecondly for my very great profit; for by contenting them all, all of them inricht my purſe. Having given me his doſe of plea<g ref="char:EOLhyphen"/>ſure; with whome I lay in bed withall, <hi>I</hi> would complaine of ſome paine <hi>I</hi> could not lye quiet for, and ſo riſing, would goe to one that expected me, after <hi>I</hi> had done with him, <hi>I</hi> would pretend <hi>I</hi> muſt goe eaſe nature, and to injoy another; nay many times <hi>I</hi> would admit of the preſence of one of my Lovers, whileſt an other lay ſleeping by me.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>In good faith <hi>I</hi> could never be ſo con<g ref="char:EOLhyphen"/>fident and bold, feare injecting into my minde a hundred obſtacles. But this <hi>I</hi> did on a time, when all my Lovers were feaſting and drinking at my houſe, in the midſt of our jollity, <hi>I</hi> ſeemingly fell ſick of a deſpe<g ref="char:EOLhyphen"/>rate diſeaſe, falling immediately into a ſwound: Every one flocks about me imme<g ref="char:EOLhyphen"/>diately, aſſiſting me in the beſt way he could. My Maid ſhe ran away for a Doctor (whome <hi>I</hi> had afore acquainted with my intended plot) he came in very great haſt, &amp; preſently felt my pulſe. but <hi>I</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>old him <hi>I</hi> had more need of the helpe of a ſpirituall Phyſitian, and
+<pb n="41" facs="tcp:121186:30"/> thereupon <hi>I</hi> fetcht a deep ſigh. Upon this he (taking notice of a conple that were ex<g ref="char:EOLhyphen"/>traordinary buſie about me) called them a<g ref="char:EOLhyphen"/>ſide. telling them that <hi>I</hi> was a Dead Woman, unleſſe ſome pery pretious things were gotten for me. Every one upon that ſtrove who ſhould expend moſt. <hi>I</hi> cannot remember halfe the medicines he preſcribed, of very ſmall worth, but told them, that they were nothing but diſſolved pearles, and moſt pretious Arabian unguents. And to finiſh the euer told them all, that unleſſe he could have ten pieces of Gold (at the leaſt)to diſ<g ref="char:EOLhyphen"/>ſolve for a Cordiall for me, all that he had done before was in vain. Whereupon, inſtead of ten pieces, every one gave ſingly ten. Thus did my Doctor heale me to the contentment of my Lovers, and the profit of our ſelves. <hi>I</hi> had skill to inchant my Lovers to me, far beyond the art of either Philoſophers, Chy<g ref="char:EOLhyphen"/>miſts, Aſtrologers, nay Negromancers; far beyond that fooliſh thing of making a Candle of Mans Greaſe, Herbs dryed in the ſhade, Nayles of the dead, or any other Magicall incantations. I would but kiſſe and imbrace my Lovers, or let them anoint themſelves with a pretious Balme I have, they preſently became ſo ſtuppefied, that they did as much a<g ref="char:EOLhyphen"/>dore as affect me.</p>
+            </sp>
+            <pb n="42" facs="tcp:121186:31"/>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Since (Siſter) it's our trade, why ſhould not we be as ſubtle in it as we may. Many times you know we meet with loſſes: as ſome fellows come, and eate and drinke with us very freely, and when the reckoning is to be paid, they ſweare they left their Mo<g ref="char:EOLhyphen"/>ney at home, and therefore we are inforc't to truſt them, other times we are carried a<g ref="char:EOLhyphen"/>broad by hectorian blades, and are either ſtript of what is valuable, or left as a pledge for the reckoning. <hi>Ill</hi> gotten goods ſel<g ref="char:EOLhyphen"/>dome proſper.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>My chiefeſt gaine came in by Ser<g ref="char:EOLhyphen"/>vants; for as many of them knew not the getting of what money they had, ſo were they as willing to part from it; all the care they took, was to get time to ſpend what they had gotten. <hi>I</hi> would be ſure to take notice of what profeſſion each was of, and ſo accord<g ref="char:EOLhyphen"/>ingly would I proportion my demands. I would hug, kiſs, imbrace and flatter the Milliner out of Ribbands, Hoods, Scarfes, and Gloves: The Gold-ſmith I would pro<g ref="char:EOLhyphen"/>miſe a nights lodging for either Rings or a piece of Plate, and to be ſure I would get ſomething of every one; if I found any of them to be wary, I would lay him downe one halfe for his Commodity, with a pro<g ref="char:EOLhyphen"/>miſe to pay him the other halfe, within ſuch a
+<pb n="43" facs="tcp:121186:31"/> time, though I never intended to do it, knowing well he could take no rigorous courſe againſt me, for feare of my diſcredit<g ref="char:EOLhyphen"/>ing him to his Maſter. One above the reſt, did I cheat extraordinarily. He was ſo cho<g ref="char:EOLhyphen"/>lerick, as it was impoſſible for any one to be more; in ſo much, that if a Flie did but ſettle on his noſe, he would thunder out his execrations o me; and then againe his paſ<g ref="char:EOLhyphen"/>ſion being over, he would cringe to me like a Water-ſpaniell, and withall make a repara<g ref="char:EOLhyphen"/>tion by gifts, for the wrong he had done me in words. Sometimes in his angry fit, I I would riſe up from him, and ſit downe by another, proteſting never to be friends with him more, (and this many times would hap<g ref="char:EOLhyphen"/>pen by my own provocation on purpoſe) on the next day he would be ſure to ſend in good ſtore of proviſion as fore-runners of his com<g ref="char:EOLhyphen"/>ming, which were his ſureſt peace-makers, and then after beſtowing on me a ring, bracelet or the like, we would kiſs friends. And this was his beſt way, for thou knoweſt (Siſter) the malice and hatred of a woman is implacable, it rages more, then the Pox in the bones.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Prethee don't put mee in mind of that body tormenting diſeaſe.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>I had almoſt forgot, that thou haſt beene infected with that plague, therefore par<g ref="char:EOLhyphen"/>don me.</p>
+            </sp>
+            <pb n="44" facs="tcp:121186:32"/>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>How canſt thou forget that, which thou thy ſelfe haſt felt ſo ſenſibly. Beſides is it poſſible for us that are continually in theſe hot skirmiſhes, to come off without being wary as another, yet could not avoid the blow, and ſo great a one it was, that at this very hour I feele the ſmart of it, though it was ten yeares ſince. It hath carbonadoed my fleſh, putrified my bones, ſhak't of my haire, and it hath raiſed the very foundation of the <hi>bridge</hi> of my noſe; beſides the loſſe of my haire and the infection of my breath. Sure<g ref="char:EOLhyphen"/>ly its occupation partakes much of a Barber<g ref="char:EOLhyphen"/>chyrurgion, for a man need neither <hi>Shaver,</hi> nor <hi>Tooth-drawer,</hi> that hath but the Pox for his companion. It ſhould likewiſe have a ſmatch of the Alchymiſt, for it will in a ſhort time decoct all the money out of a mans Pocket, be it never ſo deepe.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Some ſay, that the Father of this di<g ref="char:EOLhyphen"/>ſeaſe was a French Man, if ſo, then I am ſure the Mother of it is luſt, and as of that, ſo of moſt of all the vices in the World. So that I cannot ſee upon what grounds we ſhould love it for, ſince it brings little pleaſure with it, but an abundance of griefe, pain and an<g ref="char:EOLhyphen"/>guiſh of ſpirit. Its very naturall property is to ſuck out the very heart-blood of Mankind.</p>
+            </sp>
+            <pb n="45" facs="tcp:121186:32"/>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Why doſt thou ſo inveigle againſt it, ſince thou doſt both uſe it, and ſolicite o<g ref="char:EOLhyphen"/>thers to imbrace it likewiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Since luſt is my profeſſion, I am a<g ref="char:EOLhyphen"/>fraid I ſhall come to extreame poverty, if I pleaſe not my amorous Cuſtomers in that ſort of Ware they deale in. Though for my owne part, I now grow weary of it by too much uſe. Nay even when my Lovers are bu<g ref="char:EOLhyphen"/>ſied about the action, I hardly think on it, for my minde is either buſied about ſome one of my friends, whom I muſt ſhortly cheat, or about himſelfe in cunningly picking his pocket. If he perceived my theft, I would put it of with a jeſt, telling him he ſhould next time for it have a paſſage in <hi>Venus Boat gratis,</hi> which would pleaſe the foole for the preſent, but he found oftentimes his expectations croſt, for I would not ſuffer him to open my <hi>Lock</hi> without his ſilver <hi>Key.</hi> But now I ſhall tell you a merry trick I did put upon three Men at once. There was one a Painter &amp; two Cut<g ref="char:EOLhyphen"/>lers, which were extraordinarily amorous of me, but at great enmity one with the other as rivalls. I ſtudyed with my ſelfe at a time how I might make my ſelfe ſport at their harmes, and thus it was. I appointed theſe three ſeverally to viſit me all on one and the ſame night, and much about one time, yet
+<pb n="46" facs="tcp:121186:33"/> neither knew, but that they ſhould injoy my company ſolely, none being preſent. The firſt that came at the time appointed was the Painter, who finding me all alone, was ex<g ref="char:EOLhyphen"/>ceedingly rejoyc't at his good fortune, and without delay falls about my neck, kiſſing and hugging me, (as the Divle hug'd the witch) and would have done more but that I told him, there was time enough for us to ſport and weary our ſelves. It was not long before one of the Cutlers knocks at my Door likewiſe; whereupon pretending to the Paint<g ref="char:EOLhyphen"/>er that I knew him by his voice, to be my Uncle, I perſwaded him to hide himſelfe in my Cloſet. Upon this I admitted my Cutler, who ſeeeing an opportunity of privacy was on fire to excerciſe his weapon, but I did <hi>put by his thruſt,</hi> by telling him I expected my cou<g ref="char:EOLhyphen"/>ſin immediatly; but I told him I could quickly ſhift him of, and then I ſhould be very will<g ref="char:EOLhyphen"/>ing to make a paſſe or two with him. I had no ſooner ſpoke the words, but the other Cutler knockt at doore, if I ſhould have done according to their expectations, I thinke I ſhould have had enough of trying weapons. My ſecond I perſwaded to hide himſelfe, and ſo I admitted the third, who came in like a good ſword man, ſaying with a furious look (enough to have ſcared an Owle) O that
+<pb n="47" facs="tcp:121186:33"/> I had now but ſome one of my Corivalls to glut my Sword with their blood. Now was my rivall the Cutler here, I would ſend him as a token to Vulcan to blow his Forge; Were the Painter here I would quick<g ref="char:EOLhyphen"/>ly diſpatch him to the Stygian lake to draw <hi>Pluto</hi>'s grim countenance, beſides farther miſ<g ref="char:EOLhyphen"/>chiefe that <hi>I</hi> would do him. At which words both of them, (as being toucht in the point of honour,) ſally out upon him, and he (thinking that his bombaſt words had con<g ref="char:EOLhyphen"/>jur'd them thither, or Divels in their ſhapes) ſpeedily attempts to flye, but making more haſte then good ſpeed, tumbled down the ſtaires headlong. As for the aſſailants, (an<g ref="char:EOLhyphen"/>ger ſo prickt them on to ſpeedy revenge) that both ſtriving who ſhould go down the ſtaires to revenge himſelfe firſt, they both fell down to the bottome together. Now did this hot incounter renew, and (as valiant Cowards) becauſe they could not flye, the doore being ſhut, there was a ſad fight, blood iſſuing in aboundance from them all. At length the Conſtable (hearing a great noiſe at that time of the night, breakes open the door, and ſeazes upon my bloody Combatants, and ſo carries them to priſon, where I make no queſtion they were forc't to ſurrender up their fury upon diſhonourable terms, &amp; were forc't to live pea<g ref="char:EOLhyphen"/>cibely for the future.</p>
+            </sp>
+            <pb n="48" facs="tcp:121186:34"/>
+            <sp>
+               <speaker>Anit.</speaker>
+               <p>I cannot but laugh to think on this pleaſant adventure.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Now (deare Siſter) having paſt as it were through my non-age, let me tell you ſome of my arts and devices that I uſed in the meridian of my dayes, having beene too much wearied by Fortunes toſſing and hurl<g ref="char:EOLhyphen"/>ing me up and downe, I bethought me how I might live a more ſtaid and ſtately kind of life. And thus it was I pretended (and ſo gave it out accordingly) that I would now bid adiue to the world, by ſequeſtring my ſelf in a Nunnery from its rumours &amp; manifold troubles, wherreupon I all on a ſuddain pull'd downe my Tapiſtry hangings, and with all moderated my dyet to a meale a day. I like<g ref="char:EOLhyphen"/>wiſe cloth'd my ſelfe in a meane habit, ſtrip<g ref="char:EOLhyphen"/>ping my ſelfe of my neck-laces, rings, gold<g ref="char:EOLhyphen"/>en chaines, and all the reſt of my ornaments. I ſequeſtred my ſelfe from all company, not permiting my deareſt friends to ſpeak with me. All my ambition now, was to be account<g ref="char:EOLhyphen"/>ed religious, and therefore to the life, did <hi>I</hi> counterfeit the lives of the Saints. Now was the City fill'd with the rumour of my con<g ref="char:EOLhyphen"/>verſion: all my feare was that they would no more call me <hi>Thais,</hi> but penitent <hi>Mary Magdalene.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>But how did you diſpoſe of all your goods on this occaſion?</p>
+            </sp>
+            <pb n="49" facs="tcp:121186:34"/>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>All my pretious things I did hide in a friends houſe, things of leſſer vallew, I diſtributed as almes to the poor. Now ſee<g ref="char:EOLhyphen"/>ing a convenient time, I ſent for all my friends and lovers, and after I had lookt very ſadly on each particularly, I craved all their pardons in generall for the ſins of my youth, <hi>I</hi> had committed with them, devoutly caſting up my eyes to Heaven, <hi>I</hi> invoaked pardon from thence; after which <hi>I</hi> ſpake after this manner to them, with weeping eyes. <hi>I</hi> now am reſolved (my quondam deare friends) to bid you and the World good night, hoping to bid you all in Heaven good morrow. My conſcience having been wrought upon by the commemoration of <hi>Chriſt</hi>'s ſufferings, infor<g ref="char:EOLhyphen"/>ced me to leave theſe ſoul-deſtroying ſins of the fleſh, and betake my ſelfe to a holy life, and this upon very good grounds, if you con<g ref="char:EOLhyphen"/>ſider, that if we live not well here, we ſhall never injoy happineſſe hereafter. Nay if we do conſider and think on it, yet if we indea<g ref="char:EOLhyphen"/>vour not to obtain it, his ſalvation is hope<g ref="char:EOLhyphen"/>leſſe. Therefore whileſt I live here, I will ſo behave my ſelfe that I may not doubt of ſal<g ref="char:EOLhyphen"/>vation horeafter. I have learnt that by my contemning of riches, I ſhall be rich; by contemning of glory, injuries, reſt, and earth, I ſhall be made glorious, and a conquerour, I
+<pb n="50" facs="tcp:121186:35"/> ſhall gaine reſt, and finde Heaven, and then in a rapture, I pronounc'd theſe Verſes;
+<q>
+                     <l>Rouze up my ſoule and let not luſtfull fires,</l>
+                     <l>Take of thy thoughts from Heavenly deſires.</l>
+                     <l>Sore up aloft, and let the Earth ſeeme unto thee,</l>
+                     <l>But as black ſpot of iniquitie.</l>
+                     <l>Now I'me reſolv'd to cloyſter up my ſelfe</l>
+                     <l>From riches, pleaſures, and all Earthly pelfe.</l>
+                  </q>
+               </p>
+               <p>Then did I tell them by what meanes I commenc't convert, which was by reading the ſtory of <hi>Mary Magdalene.</hi> And to con<g ref="char:EOLhyphen"/>clude, I told them that I was reſolv'd to doe and ſuffer any thing in this life, to be exempt<g ref="char:EOLhyphen"/>ed from thoſe everlaſting burnings of Hell fire in the life to come. Thus did I preach at leaſt an hour to them, at which ſome were grieved for the loſſe of my preſence, others were grieved, becauſe they could not ſeem ſo virtuous and good as I. The time being come that I muſt go to the Monaſtry, all my friends accompanied me thither. And by the way, ſome would praiſe God that he had call'd me to a better life; others, that God had gi<g ref="char:EOLhyphen"/>ven me the grace to forſake worldly pleaſures in my youth, and flower of my age. I obſerv'd one (as I went) to covet to be as neare me as poſſible, and who ſeem'd to be more ſorrow<g ref="char:EOLhyphen"/>full
+<pb n="51" facs="tcp:121186:35"/> then the reſt; wherefore as (I thought) I had begun a conqueſt, ſo I would finiſh it on him. Therefore juſt as I was going into the Gate of the Monaſtry, I turn'd about my head, and looking upon him with a ſtedfaſt and peirceing eye, enough to have moved a ſtone, I did ſhed ſome teares. The eye (Siſter) is Cupids Armory wherein he ſtores up his ſhafts, and ſtanding there oftentimes as a ſen<g ref="char:EOLhyphen"/>tinell, ſeldome lets an amorous heart eſcape his darts. My new Lover thought from this action, that thoſe teares were dropt for his ſake (every one is apt to conſtrue a thing ac<g ref="char:EOLhyphen"/>cording as he would have it) and from that time plotted how he might draw me from that retired life. I had not been long there, but he viſited me at the grate, and that very often. At length being not able to hold in his minde any longer, he declared his intent to me, urging all the perſwaſions that I ye in the tongue of Man to draw me out of that place. But I ſeemin to be outragious, askt him whither the Divle ahd ſent him as his agent to corrupt chaſte intentions. At this tart anſwer, he was quite daſht out of coun<g ref="char:EOLhyphen"/>tenance, and ſo departed. But (as I under<g ref="char:EOLhyphen"/>ſtood after) all the way he went, he did ad<g ref="char:EOLhyphen"/>mire at my ſo ſuddain reformation, and that ſeeing me ſo ſtrickt, he really thought now I
+<pb n="52" facs="tcp:121186:36"/> had abſolutely baniſht diſſolute thoughts, and now he thought I might make a very virtuous wife. Therefore the next time that he came to me, he deſired to be excuſed if he had given me any cauſe of diſcontent, and in briefe told me that if I would leave that place, and be as willing as he was, to live a marri<g ref="char:EOLhyphen"/>ed life, the conſummarion of it ſhould be be<g ref="char:EOLhyphen"/>tween us in a very ſhort time. After a little pauſe on the buſineſſe, and ſome reaſonings between us, I conſented to his deſires, (and indeed the ſooner becauſe <hi>I</hi> was extreame weary of that kind of life) and ſo leaving my devotion, I married this Man wealthy enough.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>I believe that proverb was continuall in thy minde, that ſayes, he knows not to live, that knows not to diſſemble.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Diſſimulation is the chiefe practique part of my life; and therefore blame me not, if <hi>I</hi> know how to be pleaſing to the eye, though intricate to the underſtanding, and be not what I ſeeme to appeare, but my coun<g ref="char:EOLhyphen"/>tenance ſhall be ſure to be framed according to the preſent diſpoſition, ſo that by different mens humours I may weave a net for occa<g ref="char:EOLhyphen"/>ſion. Much of this feminine policy did I make uſe of to winde my ſelfe into this married condition <hi>I</hi> then was in. Then had
+<pb n="53" facs="tcp:121186:36"/> 
+                  <hi>I</hi> an other part to act, to wit, a ſober diſcreet and modeſt wife to my husband, not mattering whether I ſeemed ſo to others of my familiars. Now muſt you conſider me as a ſtately dame under a conjugall tye, attended on by my Gentleman Vſher, and waiting Gentlewoman lodg'd and ſeated in a moſt ſtately and well built houſe, in which you may be confident <hi>I</hi> would want nothing, as long as there was any money to pay for it. My cheifeſt buſineſſe was how <hi>I</hi> might weare the breeches, and then it would prove no difficult matter to commence Scholar both to <hi>Epicurus</hi> and <hi>Ariſtippus, I</hi> was of their opinion that held pleaſure to be the <hi>Sumum bonum,</hi> at leaſt a womans chiefe happineſſe, which <hi>I</hi> reſolv'd to injoy though my body and ſoule paid for it. My imployment was to drinke rich and fra<g ref="char:EOLhyphen"/>grant Wine, to eate choice victuals, both at Ceres and Venus tables. At which I imitated not the behaviour of ſome nice finnekin City dames, that will not ſpeake a broad word, much leſſe eate with a good appetite (but let us excuſe them in private.) When they are at a plentifull dinner, they will eate and drinke very little for good manners ſake, forſooth. As for me I imploy'd all the in<g ref="char:EOLhyphen"/>duſtry <hi>I</hi> had to live merrily and jovially, and thought that little enopugh too, not valewing what people ſaid.</p>
+            </sp>
+            <pb n="54" facs="tcp:121186:37"/>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>But how did'ſt thou get money to feed and maintaine thoſe varieties of pleaſures, thou did'ſt injoy?</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>If I found my husband to be in an (Ill) thrifty humour, and ſo would not allow me what I deſired, I would harken to ſome young gallants ſollicitations, and ſo dreſine my pleaſure through my husbands hornes, thus you ſee he got nothing but a cornuting for his avarice.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>But did he not ſuſpect this want<g ref="char:EOLhyphen"/>on carriage?</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>No: for when I had beene abroad exalting his horne, then would <hi>I</hi> (when I come home) cling about his neck, ſpeaking him nothing but ſugar'd words, which he took for the quinteſſence of affection, and ſo <hi>(quid pro quo)</hi> would returne reciprocall love to me. Cuckolds (according to the Proverb) are the moſt loving husbnds. Thus did I by diſſembling handſomely, obtaine liberty both to gormondize, to be wanton, and to be prouder. My devotion ſeldome reach't farther then good apparell, for which cauſe I would goe to Church, to obſerve what was the neweſt faſhion, or who had a better gowne then my ſelfe, and then go home and be ſick till I had it, ſome body ſhould pay fer't. I could have wiſht there had beene nothing
+<pb n="55" facs="tcp:121186:37"/> worne but ſilke, ſatten, cloth of Gold, &amp;c. had it not been for envy to ſee others as well clad as my ſelfe. I would ſeldome ſtir abroad till I had wel read my face in a looking glaſs, that I might artificially mend the errata's; as if my cheekes were too pale, then would I adde ſomething of the vermilion. Then when I had review'd it, and found the faults thereof corrected, I would venture boldly to ſhow this Picture <hi>of my own drawing,</hi> by with<g ref="char:EOLhyphen"/>drawing the <hi>courtains,</hi> I meane my hoods. Thus did I trimme my ſelfe, as a <hi>French</hi> cooke garniſheth a diſh the more to provoke the appetite to a taſte.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Did'ſt thou thus trick up thy ſelfe to pleaſe thy husband onely.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Noe; yet I would pretend it was for his ſake, though my maine aime was to cauſe amorous cuſtomers to valew the more what was within, by the richneſſe and ſplen<g ref="char:EOLhyphen"/>dour of the buſh. And this <hi>I</hi> did, knowing that one man alone is not able to guide a womans light veſſell. You know that when the ſpur of luſt Pricks us on to a falſe gallop, it requires a very luſty and experient rider to ſet us; many times for all their ſufficiency they are thrown. Now that my ſaddle might not be empty, it was requiſite to have ſeverall <hi>Horſe-men,</hi> that when one is out, the other
+<pb n="56" facs="tcp:121186:38"/> may be in. I did all that I could to confine my ſelfe to my husband; I very often gave him caudles, cock-broth, lamb-ſtones, &amp;c. for Purgation ſake. But theſe wrought ſo violently with him, that they left nothing within him; and now as <hi>I</hi> was a conſump<g ref="char:EOLhyphen"/>tion to his purſe, ſo he fell into the like of his body, and now was it high time for him to repent, which he might thank me for bringing him to it ſo ſoone; though for my owne particular, <hi>I</hi> ſent it to travaile; with an intent not to have its company till I was three ſcore yeares old. My husband being dead, I followed not the cuſtome of ſome widdowes, that make coſtly Funerals the ſonner to get them husbands. But I buried him very obſcurely; firſt that I might imploy the money to a better uſe, as in buying good cloaths, living in pleaſure, &amp;c. and next that my husbands ſo ſhaddine death might nor be too much divulged as dying ſo ſuddainly. Beſides <hi>I</hi> bad no deſire to come under thoſe conjugall (ſervile) bones. Were all females of my opinion, no woman ſhould marrie without the approbation of ten Doctors and ſeven Mid-wives at leaſt, you have not heard ſo many ſtoryes concerning <hi>dilapidations</hi> as I have; it makes me even lament with teares the condition of well wiſhing women that
+<pb n="57" facs="tcp:121186:38"/> have the hard luck to meet with thoſe doe-littles. You may perceive (Siſter) that <hi>I</hi> am a Jewelleſs, for as <hi>I</hi> have good skill in the choice of <hi>Stones,</hi> ſo am <hi>I</hi> never better then when <hi>I</hi> am bulied about them.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>But (Siſter) <hi>I</hi> wonder how thou did'ſt diſſemble thy joy at the death of thy husband?</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>I bid it under my <hi>mourning Gowne,</hi> though I laught in its <hi>ſleeve,</hi> I would often fetch a cuſtomary ſigh, and if need did re<g ref="char:EOLhyphen"/>quire, <hi>I</hi> did weep for <hi>joy.</hi> It requires a very diſcerning wit, to diſtinguiſh a Womans teares. For ſometimes they proceed from ſorrow, other times from deceit, and ſome<g ref="char:EOLhyphen"/>times from anger, and to be ſure they can command them upon all occaſions. The time of mourning being expired, <hi>I</hi> did caſt of thoſe ſad weeds, and clothedmy ſelfe like a flouriſhing ſpring after a hard and tedious Winter. And now the hot rayes of my beauty being diſplayed, they did attract Lovers to me like atoms in the Sun beames, which fill'd my chamber, as people doe a play houſe.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Now thou art reduc'd to the ſame condition as thou wer't before marrige.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>It's true; onely with this difference, that <hi>I</hi> am richer, and more experienc'd in
+<pb n="58" facs="tcp:121186:39"/> the World, and ſo the better able to act my part in it. Had <hi>I</hi> not been inſpired with wiſe<g ref="char:EOLhyphen"/>dome and cunning even from my Cradle, <hi>I</hi> could never have expected to have lived ſo well at this time. <hi>I</hi> ever prefer'd profit before pleaſure, though <hi>I</hi> often joyn'd them toge<g ref="char:EOLhyphen"/>ther, otherwiſe poverty by this time had been my portion. And that whereas one ſuch as <hi>I</hi> have (narrowly) eſcaped the malice of fortune, a hundred elſe have rotted of the Pox in an Hoſpitall, or dyed out of want in ſome ditch. The feare of which often ſtings us in ſuch a manner, as that we ſhould hardly injoy our ſelves, were it not for hopes that our deceits and couzonages will get us eſtates before that time. Beſides we have hopes of a trade to truſt too, which requires a ſmall ſtock to ſet up withall, onely two or three Country Girls, a barrell of Beer, and a Gal<g ref="char:EOLhyphen"/>lon or two of ſtrong Waters. If our trading is but ſmall, we can begin with leſſe, for you know the Honey-pot may admit of many flies to lick in it; But of this I ſhall ſpeake more largely of, when I ſhall come to depaint the Baude with her implements.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Pray (Siſter) continue your diſ<g ref="char:EOLhyphen"/>courſe.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Whileſt now I was a profeſt Whore again, <hi>I</hi> indeavoured with the utmoſt of my
+<pb n="59" facs="tcp:121186:39"/> craft, to attempt any thing, (what ever it was, and how wicked ſo ever the deſigne) that might be any ways beneficiall; you may per<g ref="char:EOLhyphen"/>ceive all along my ambitious minde, for it was my ſtudy from fourteen years old to this preſent, how <hi>I</hi> might excell all in our pro<g ref="char:EOLhyphen"/>feſſion, intending no leſſe then to be ſtiled their Queene. As for all kinde of wickedneſs, I dare out-vie them all, though the ſimpleſt of them is too too vild. How many Men have I rob'd, cheated and undone? How many have I cauſed to be wounded, nay ſometimes murdred, beſides beatings and petty-larcenies? Againe (which is the chiefeſt thing) how many gallons <hi>of thrice concocted blood</hi> have I extracted, in thoſe many venereall combats I have been in.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>By the ſmock of Venus, (God for<g ref="char:EOLhyphen"/>give me for ſwearing) thou art an arch de<g ref="char:EOLhyphen"/>ceitfull Quean.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>If I am ſo, can you expect leſſe from one that has been experienc't in ſo long, and forc't to uſe ſuch devices.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>But wilt thou never repent for theſe thy wickedneſſe?</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>What need I as long as the Pope ſtands our friends (beſides Cardinals and ſome of the eminent Clergy) who will ſpeak a good word for us hereafter, he hath given
+<pb n="60" facs="tcp:121186:40"/> me good hopes by giving me a generall par<g ref="char:EOLhyphen"/>don for ſins paſt, preſent, and to come. So that now I hope my ſoul will injoy as many pleaſures Celeſtiall, as my body hath Terre<g ref="char:EOLhyphen"/>ſtriall.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>This is ſome part of my preſent com<g ref="char:EOLhyphen"/>fort, but I feare me the Pope and all the reſt that tell us fornication is but a veniall ſin, will ſooner open the Gates of Hell to us then thoſe of Heaven. And now my dreame is out, for laſt night me thought I was dead, and as I was entring Hell Gates, I ſaw the Pope as Porter of the Gate, inſtead of his triple Crowne, he ſeem'd to have a pair of huge hornes, with which he kept out a vaſt number of his Clergy-men that preſt on him to get in, telling them that the place was ſo full of them already, that there would be no roome for others, if he permitted them entrance, and ſo to make roome for me, he fell a puſhing with his horns, which made ſuch a ſad ſlaugh<g ref="char:EOLhyphen"/>ter among their beads and crucifixes, as ne<g ref="char:EOLhyphen"/>ver was the like ſeen.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Thou makeſt me to laugh heartily at this thy phantaſticall dreame.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>It were all one if thou weepeſt be<g ref="char:EOLhyphen"/>cauſe they are as much uſed by thee, one as the other, and for as little cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>It is very true, for there is nothing
+<pb n="61" facs="tcp:121186:40"/> ſo ſerviceable to our occupation as laughing and crying, to which muſt be added lying; which I made uſe of as often, as Plow-men eate bred and cheeſe. By a lye, I got once a brave gold chaine. It was thus, there was a rich coxcomb was even ſick for love of me; this Man to ſeeme the more majeſtically be<g ref="char:EOLhyphen"/>fore me, had borrowed a very rich gold chain of his neighbour, and he likewiſe had bor<g ref="char:EOLhyphen"/>rowed it of his Wife. Now we were at that time he wore it, appointed to ſee a great ſhow. I eaſily perſwaded him (becauſe I had a de<g ref="char:EOLhyphen"/>ſire to it) to let me weare it at that time. A<g ref="char:EOLhyphen"/>way we went accompanied with my neceſſa<g ref="char:EOLhyphen"/>ry implement a Pimp; being come into the middle of a great crowd, I ſlipt of my chain, and conveighed it ſpeedily into my Pimps hand. When I thought he was gon with it far enough of, I made a hideous cry that I was undone, calling out, ſtop theefe, and be<g ref="char:EOLhyphen"/>cauſe I ſo well counterfeited my griefe by my teares, my Lover thought I had really loſt it, and ſo ſeeing there was no more to be done, but to ſit down quietly under the loſſe, he ſuffer'd me to injoy the benefit thereof, if I would grant him ſome few nights pleaſure, which I told him his merit required, if I had not loſt his chain, and thus we compounded the difference. If it may not be troubleſome
+<pb n="62" facs="tcp:121186:41"/> to you, I ſhall tell you two or three more ſuch like ſtories.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Your ſtories are ſo pleaſing, that I am ſorry the nights approach will ſooner finiſh your agreeable diſcourſes then I am willing. Therefore not to looſe time pray proceed.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>When I lived at <hi>Florence,</hi> it happened that an old drie bon'd fellow fell in love with me. He could not love my beauty more then I did his Purſe. He wiſh't well to ve<g ref="char:EOLhyphen"/>neriall pleaſures (as being addicted to them in his youth) though he could do little. He was fit for nothing but to ſleepe and ſnore by a womans hot ſide, lying there like a ſenſeleſſe block. She that marries ſuch a man may never feare of his being too vigorous and luſtie, and ſo be inforced to ſay, it's e<g ref="char:EOLhyphen"/>nough (my Deare) for this time. This old Amoriſt the day before the nocturnall combat, indeavours to provoke and ſtirre himſelfe up by imbracing, kiſſing and feeling mee, nay he tooke many reſtoratives to ſtrengthen his nerves. And now thinking he had inabled his body to correſpond with his deſires, he went to bed with me, and ſo prepares himſelfe for a battery. But alas poore man, as ſoone as the <hi>fight</hi> began, his <hi>Standard</hi> fell juſt as he was entring the breach.
+<pb n="63" facs="tcp:121186:41"/> And no wonder, for this member is as really dead as the reſt of his body is a dying. It ſerves him, but as the Eunuchs quill for an <hi>aqueduct.</hi> Thus you ſee it's no propitious <hi>conjunction,</hi> when <hi>Saturn</hi> is coupled with <hi>Venus.</hi> Now leaſt he ſhould leave me unex<g ref="char:EOLhyphen"/>pectedly by reaſon of his impotency, I was reſolved to have a good parting blow. Wherefore I told him that the beſt way to ſtrengthen his body was to make a good feaſt, and there at to eate and drinke freely. He was very willing to do it according to my motion. Upon this I invited moſt of our ſociety about the City. The banquet was ſerved up in diſhes, moſt whereof were ſilver ones, which <hi>I</hi> had on purpoſe borrow<g ref="char:EOLhyphen"/>ed of the old man. After we had moſt plenti<g ref="char:EOLhyphen"/>fully eaten and drunke, the table cloath was taken away, but <hi>I</hi> forgot not to ſet by four pei<g ref="char:EOLhyphen"/>ces of plate, and ſo I ſent home the reſt. But the old man finding miſſing ſo many, was ready to have run diſtracted, and in that humour came and demanded them of me. But I told him that a little after he was gone from my houſe, a couſen of mine defired me to lend them her, which I preſum'd to do upon that mutuall affection there was between him and my ſelfe. He being pleas'd at this, did reſt ſatisfied at that time; but ſome while
+<pb n="64" facs="tcp:121186:42"/> after he demanded them of me againe, and then I told him, I had forgot to fetch them home: the next newes I heard, he was dead. It was joyfull newes to me for-the gaines I received by it.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>
+                  <hi>I</hi> think thou well deſervedſt what thou hadſt. For my part I thinke if he had offred me twice as much, <hi>I</hi> ſhould hardly have ſuffered him to come nigh me. The very thoughts of him even nauſeat's my ſto<g ref="char:EOLhyphen"/>mack, his ſtinking breath, his tiſicks, beſides his impotency, an inſupportable griefe to a woman. Againe be hath his ſally port al<g ref="char:EOLhyphen"/>moſt continually open, out of which he thun<g ref="char:EOLhyphen"/>ders at a time at leaſt a hundred claps, not miſ<g ref="char:EOLhyphen"/>ſing one of the number, and this thunder is but a fore-runner of a ſhower of raine which will follow, to wit a ſtinking liquid hu<g ref="char:EOLhyphen"/>mour, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Now after I had ſpent the ſummer of my life in all manner of theſe kind of cheates; and debauchments, the autumn there<g ref="char:EOLhyphen"/>of began to appear. And now was it high tune for me to caſt the anchour of my owne carnall pleaſures. For ſince I was not able to reforme and reſtore comelyneſſe to my face by Ceruſe and Vermilion, nor make my ſtinking breath ſweet by perfum'd comfits, my Lovers began by little and little to leave me,
+<pb n="65" facs="tcp:121186:42"/> and therefore I was reſolved to make uſe of the laſt meanes of a lively-hood by turning Bawd. Now I confeſſe <hi>I</hi> was forced to chooſe a very ill time to ſet up in. For our Gallants had learnt by experience how expenſive and dangerous it is to keep a Whore, and there<g ref="char:EOLhyphen"/>fore now they went a wiſer way to work, <hi>viz.</hi> by keeping in their houſes handſome Girles which ſerv'd as Servants by day, but as their Wives by night, and ſo by teaching them what it is to lye with a Man, make them turn Whores the ſooner, and ſo augment the number of our Female traders: there is no<g ref="char:EOLhyphen"/>thing that dammages our Trade more then the incroachment of private Whores.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>
+                  <hi>I</hi> really believe that thou wert the off-ſpring of ſome profound Polititian, and ſo in thy generation there was infuſed with thy naturall heat both craft and wit.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>It is not unlikely, that I am a States Mans <hi>Baſtard,</hi> for I know not my Father; And this ſeemes the more likely, becauſe (ſome ſay) that illegitimates are Creatures (for the moſt part) of good complexions and rare features, witty, and fortunate.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>But what may be the reaſon of this?</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>I conceive it may be thus: queſti<g ref="char:EOLhyphen"/>onleſſe it was beauty, or ſome thing elſe that much pleas'd the perſon, that cauſed in him
+<pb n="66" facs="tcp:121186:43"/> theſe illegitimate deſires, now when he comes to the injoyment of them in thoſe ſtoln de<g ref="char:EOLhyphen"/>lights, his fancy being heightned, it cauſeth him to act with more vigour and livelineſs.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>You have obliged me much in ſatis<g ref="char:EOLhyphen"/>fying me in this point, but if you will more, pray continue your former diſcourſe.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Well then, be pleaſed to take notice that ſince <hi>I</hi> am now a Bawd, (as thou art) let us conſider what ſhe ſhould be, <hi>viz.</hi> of a long time a votareſſe to <hi>Venus,</hi> and afterwards let her ſerve as a <hi>Lamp</hi> in <hi>capid</hi>'s Schoole to give light to <hi>Lovers.</hi> Such a one you know <hi>I</hi> was and am. Now the firſt commodity that I indeavoured to get was ſome handſome ſimple Country Girl, and ſuch a one did I meet with all, both Fatherleſſe and Mother<g ref="char:EOLhyphen"/>leſſe, as fit as might be for my turne. At firſt I took her home to me as a Servant to trye her naturall parts, but finding her to be both witty and ingenuous, I then lookt upon her as my Daughter, and did make very much of her, that thereby I might perſwade her to what I liſted. After ſhe had lived a ſmall while with me, I thought it time to document her a little; And therefore taking her aſide in private, <hi>I</hi> uſed very perſwaſive arguments to bring her firſt to chaſe out of her, Maiden<g ref="char:EOLhyphen"/>fear and baſhfulneſſe; condemning much
+<pb n="67" facs="tcp:121186:43"/> her niceneſſe, and her uſeleſſe ſcruples. Then did I feelingly repreſent unto her the plea<g ref="char:EOLhyphen"/>ſures Women injoy by Men: adding more over that if ſhe would but dedicate her life to <hi>Venus,</hi> there ſhould not be any pleaſure, any delight in the World, which ſhe ſhould not injoy. Theſe conſiderations made ſo deep an impreſſion in her mind, that ſhe re<g ref="char:EOLhyphen"/>ſolv'd forthwith to be obedient to my deſires. Things fadging ſo well to my mind, <hi>I</hi> went on preparing the reſt of my implements, <hi>viz.</hi> Tobacco, Strong-waters, Bear, Ale, and any thing by which I might profit. And that <hi>I</hi> might be a Bawd of the right ſtamp, I fill'd my Chamber with Limbecks, Vials, and Glaſ<g ref="char:EOLhyphen"/>ſes of all ſorts, with which <hi>I</hi> prepared con<g ref="char:EOLhyphen"/>fections to clarifie the skin, waters to make the face ſhine, Paints of all ſorts, Lip-ſalves, Oyntments to ſmooth the face, Waters for the freckles in the face, with a whole War<g ref="char:EOLhyphen"/>drope of ſuch like ſlibber ſlabbers. <hi>I</hi> pretend<g ref="char:EOLhyphen"/>ed to be a Doctereſſe, and accordingly gave out, that <hi>I</hi> could mend crackt Maiden-heads, I am ſure <hi>I</hi> mended my own ſo artificially, as that <hi>I</hi> ſould it ſeven times, the loſſe thereof unperceiv'd. I could cure love-ſick Girles of the <hi>Green-ſickneſſe, or ſide-akings,</hi> by cauſing others (becauſe <hi>I</hi> could not do it my ſelfe) to adminiſter to them <hi>injections</hi> and <hi>gliſters,</hi> a
+<pb n="68" facs="tcp:121186:44"/> ſpeedy cure. The falling ſickneſſe, (becauſe ſome ſay it's caus'd by a <hi>ſpirit</hi>) <hi>I</hi> cur'd only with this ſpell, <hi>viz.</hi> but <hi>croſſing the Legges.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>But how did you contrive a way to make this Country beauty known?</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>
+                  <hi>I</hi> went to my Markets with her, (<hi>I</hi> meane all publique meetings) dreſſing her ſo neate and ſo ſpruce, that <hi>I</hi> ſoon got Chap<g ref="char:EOLhyphen"/>men enow for her; For ſome of them ha<g ref="char:EOLhyphen"/>ving much to do with ſuch like <hi>Commodities,</hi> could tell at the firſt ſight, ſhe was no adulte<g ref="char:EOLhyphen"/>rate Gem, but an unſpotted Virgin; Where<g ref="char:EOLhyphen"/>upon <hi>I</hi> had daily great reſort to my Houſe of theſe young Gallants, juſt like a company of Dogges after a ſalt bitch. We feaſted it every meale, and lived as merrily as the day was long; And all this they did in hope of cropping of this my Virgin bud. I kept them all in ſuſpence a good while, to the intent I might fleece them all, and that they might have the grea er eſtimation of her.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>But did you not inſtruct your Daugh<g ref="char:EOLhyphen"/>ter, how ſhe ſhould behave her ſelfe?</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Yes, I taught her in what manner ſhe ſhould dialogue with her Lover, how ſhe muſt aske, or with what grace ſnatch any thing from him; when to imbrace, when to kiſs, when to ſpeak him fair and flattering; and how to keep him at a diſtance; I inſtru<g ref="char:EOLhyphen"/>cted
+<pb n="69" facs="tcp:121186:44"/> her likewiſe not to contemne the mean<g ref="char:EOLhyphen"/>eſt, nor be too familiar with the higheſt, and onely to be complacentiall to thoſe from whom ſhe expected ſpeedy gain. Then <hi>I</hi> taught her the way how ſhe ſhould promiſe, deny, ſwear, and forſwear, lye, cheat, ſteale, hate, and love according as ſhe ſhould ſee good. In a word, I made her underſtand all the art and craft of her profeſſion; and truly I will ſay this for her, that ſhe was ſo ca<g ref="char:EOLhyphen"/>pable of underſtanding what I told her, that ſhe became in a very ſhort time an excellent good proficient, and would have improv'd her ſelfe by every days experience, had not the fatall Siſters too ſoon cut aſunder the thread of her life, as you ſhall hear by and by.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>I pray Siſter tell me how ſhe came to her untimely end.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>There were two Sparks, that lov'd her both intirely well. Ah! the pillar of my comfort, the ſtay of my life, with thee are all my hopes and joyes vaniſhed.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Come, prithee Siſter, drye up thy tears for a while, and proſecute her ſtory.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>
+                  <hi>I</hi> ſay theſe two were both of one minde, <hi>viz.</hi> to purchaſe her Maiden-head at any rate what ever. As for my part, I was reſolv'd it ſhould not be loſt, but at a very
+<pb n="70" facs="tcp:121186:45"/> deare rate. One of them proffer'd me a good round ſum, which ſum becauſe it pretty well ſatisfied my covetous deſires, I accepted, and granted him leave to pluck this flower, and ſo appointed him to come at ſuch a time. The other Gentleman (ſuſpecting his rivall had gain'd me by his gold) came and offred me a far greater ſum then the other, which ſo ſhook my fidelity and honeſty, as that I granted him likewiſe the injoyment of his deſires at ſuch a time appointed. The time being expir'd wherein the firſt was to reape the fruit of his expences; He came, and be<g ref="char:EOLhyphen"/>ing hardly warm in his Miſtriſſes arms, the other came likewiſe (miſtaking his time) and comming into her chamber, finds his rivall faſt linkt in his Miſtriſſes armes ſo cloſe, as if of two, they were incorporated into one body. But now ſee the inconſtancy of for<g ref="char:EOLhyphen"/>tune, or rather the omnipotent power of God, that did metamorphoſe our pleaſure and mirth into ſorrow, my hopes into de<g ref="char:EOLhyphen"/>ſpaire, and annihilated this my young pupils wanton deportment by deaths conquering hand. For this other young Gentleman ſee<g ref="char:EOLhyphen"/>ing ſo an unpleaſant ſight, fury and deſpaire wholly poſſeſt his minde, ſo that drawing his Rapier, he gave them that felicity as both to breath their laſts together, and ſo lancht
+<pb n="71" facs="tcp:121186:45"/> out both into the deeps of Eternity.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Surely (me thinks) thou ſhouldſt have even hang'd thy ſelfe out of deſpaire, for the loſſe of ſuch faire hopes of a gallant future lively-hood.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>It greiv'd me, you muſt think, but it could not be remedyed: wherefore now I did ſummon in all my wits to ſit in coun<g ref="char:EOLhyphen"/>ſell, which way was beſt to ſteer in. And this did my wit (which was <hi>grand in queſt</hi>) adjudg to be moſt convenient for the preſent, <hi>viz.</hi> to gaine acquaintance with all ſorts of Rogues (as they call them) viz. <hi>Plumers, Filers, Cloak-twitchers, &amp;c.</hi> and ſo to permit my Houſe to be a receptacle or ware-houſe for all their thefts and fellonies. At this time I did give out that I was a <hi>cunning Waman,</hi> or an <hi>Aſtrologer;</hi> ſo that if any had loſt ſilver Boles, Spoones, or had had their pockets <hi>gelt;</hi> they preſently repair'd to me; whom I promis'd (upon condition they would re<g ref="char:EOLhyphen"/>ward me) to reſtore them their own againe: I needed not to obſerve the ſtars, as knowing before certainly to finde what was loſt. Thus did I become a gainer on all hands, by being the Patroneſs, or Harbourer, of all ſorts of thoſe that practiſed villany and roguery. If any of theſe ſeemed offended at my immode<g ref="char:EOLhyphen"/>rate gaines, I would ſoone flatter or drink
+<pb n="72" facs="tcp:121186:46"/> him into a better humour, that thereby I might make theſe <hi>Caterpillars</hi> continue to pilfer, ſteale, cheate, and rob, and all this was principally to defray the charges of my diurnall debauchments. <hi>I</hi> had a great many of ſuch Servants at this preſent, both Male and Female, all which I perſwaded it was far better to live a ſhort life, and a ſweet life, then to live a long one, and miſerable. Somes office was to raiſe a tumult in the ſtreet by quarrelling, and ſo to pick the pockets of thoſe that idly gazed on, or did meddle in bufineſſes that did not concerne them. Others went to ſhops under pretence of buying Rib<g ref="char:EOLhyphen"/>bands, or a peice of ſilk, but if they bought one peice, they aſſuredly <hi>filed</hi> an other. O<g ref="char:EOLhyphen"/>thers <hi>I</hi> had that were Gameſters, who knew (to their fingers ends) the exact art of card<g ref="char:EOLhyphen"/>ing or dicing, and would ſubtilly let young <hi>Gulls</hi> win at firſt, that they thereby might win all their money at laſt. I had many more Sects of Raſcals, too tedious to mention; all which brought me in the tithe of their cheates, every man according to his imploy<g ref="char:EOLhyphen"/>ment. But it was not long before I was de<g ref="char:EOLhyphen"/>prived of this meanes of living; for ſome kild one the other: others were the Gallows tribute, and the reſt the Divell fetcht I think, ſo that now I was inforc'd to follow my old
+<pb n="73" facs="tcp:121186:46"/> trade of Bawdry. Being now left to my ſelfe by the untimely death of my friends: I for<g ref="char:EOLhyphen"/>ſooke the City (being not able to ſuffer the affronts was offer'd me dayly by waggiſh boys; ſome by hooting at me, and throwing up their caps, calling me old Bawd: others throwing dirt at me, ſo that my face would uſually (when I went abroad) be as artifici<g ref="char:EOLhyphen"/>ally patcht, as the beſt <hi>Lady Errant</hi> in the City:) I ſay, <hi>I</hi> be took my ſelfe to the Sub<g ref="char:EOLhyphen"/>urbs; now being willing to ſhelter my ſelfe any where, I was content to hire a poor tottering houſe, I think it was formerly a Bawdy-houſe, which if I had been forget<g ref="char:EOLhyphen"/>full, would have put me in mind to bewaile the ſuddain cataſtrophe and ruine of my for<g ref="char:EOLhyphen"/>mer good fortune.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Siſter, The Proverb ſaith true, one cannot eate a Cake and have it too: if thy extravagant expences conſum'd what mo<g ref="char:EOLhyphen"/>ney thou hadſt, thou couldſt expect no leſſe then to want what was neceſſary.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>It's true: But I had not the grace to conſider it. I had not liv'd here above a month, before a dangerous ſickneſſe ſeized on my wretched Carcas: the cauſe whereof I could impute to nothing more, then the con<g ref="char:EOLhyphen"/>ſideration of my preſent wofull condition, poverty inſtead of plenty having the aſcen<g ref="char:EOLhyphen"/>dance
+<pb n="74" facs="tcp:121186:47"/> over it. Being ſome what recovered, all that I could get was barely Belly-timber.
+<q>
+                     <l>By this I did it; I had tricks in ſtore:</l>
+                     <l>I could cut purſes, or pick locks: or more,</l>
+                     <l>All High-way Theevs, Houſ-breakers, or cutpurſes</l>
+                     <l>Flock to my Houſe, as Merchants do to Burſes.</l>
+                     <l>Of whome I tooke my ſhare of goods, &amp;c.</l>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Thou haſt not yet forgot thy old vaine of riming.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Neither can I forget my old way of life. Wherefore I intended to lay hold on the firſt opportunity to ſet up again; And I think at that time fortune took pitty upon me, by bringing me into the company (ac<g ref="char:EOLhyphen"/>cidentally) of a Citizens Wife, that had new<g ref="char:EOLhyphen"/>ly given him the ſlip, that thereby ſhe might with more fullneſs and freedome injoy thoſe pleaſures ſhe had ſo long thirſted after. At this time I reſolv'd (if I could induce this young wanton to live with me) to leave of trading my ſelfe either in <hi>Roterdam,</hi> or <hi>Middleborough,</hi> or to make uſe of Aretius lectures any otherwiſe then to read them to my Schollars. I knew ſhe would ſave me the labour of <hi>cater-wouling</hi> at midnight under bulks, or of ſtanding ſentinell at the corners of ſtreets, with a white large apron, or of
+<pb n="75" facs="tcp:121186:47"/> fetching a round to catch night Owles, and ſo lead them to ſome by Lane, Church-porch, or ſome dark entry, where Joan ſhall ſeeme to ſuch Buzards, as good as my Lady. But judge you Siſter, if they were not bloody minded fellows, to ply me with their <hi>pot-guns,</hi> though I hung up my <hi>white flag of truce,</hi> my ſmock.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>But didſt thou prevaile on this Cur<g ref="char:EOLhyphen"/>tezan to be one of the utenſils of thy occupa<g ref="char:EOLhyphen"/>tion?</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>It was no difficult matter for me to doe it. For firſt, ſhe was one that already had learnt <hi>prick-ſong,</hi> and knew what it was for one <hi>Jack</hi> in the <hi>Virgin-h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>les</hi> to go up, and the other <hi>(Gill)</hi> to goe down. Againe, knowing what a gallant prize ſhe was, I muſtred all my wit together to gain her. For nature had imbelliſht her with all attractions and perfections imaginable in our Sex: on<g ref="char:EOLhyphen"/>ly ſhe wanted ſome maxims of my policy to amuze and captivate her beholders, a good wit, and a handſome method of ſubtle diſ<g ref="char:EOLhyphen"/>courſe, ſhe naturally was indewed with all. And to ſpeake like one that hath read in Romances, in her voice there was more mu<g ref="char:EOLhyphen"/>ſick then in Amphions lute, or Orpheus harp. Circe is a meer fable to her transform<g ref="char:EOLhyphen"/>ing, not onely the virtuous and preciſe, but
+<pb n="76" facs="tcp:121186:48"/> even the moſt valiant into her adorers. And now to ſpeak like a Poet;
+<q>
+                     <l>Moſt Heavenly face, immortall, and Divine,</l>
+                     <l>Muſt ſuch perfection now turn Concubine?</l>
+                     <l>Malicious Heaven, why from ſo ſweet a face</l>
+                     <l>Did you exempt her mindes adorning grace?</l>
+                     <l>Were I a Man, and ſhould but her eſpie</l>
+                     <l>I ſoone ſhould plunge into captivitie.</l>
+                  </q>
+               </p>
+               <p>This Gentlewoman had ſo much wit as to furniſh her ſelfe with good ſtore of money, rings, &amp;c. before ſhe left her husbands houſe, which I purpoſed ſhould furniſh us with ne<g ref="char:EOLhyphen"/>ceſſaries in reference to the hiring of a hand<g ref="char:EOLhyphen"/>ſome and well built houſe, and to ſerve us to live on, till the fame of her beauty and parts ſhould invite ſuch cuſtomers as might repay what we had expended. After all things had ſucceeded as well as we could deſire, we wanted yet one thing more, <hi>viz.</hi> a ſervant that might likewiſe ſerve for a Doxie of the ſecond rank, that might entertain thoſe of an inferiour rank and quality. A beggar-maide hapned to come to our doore for an almes, whome I obſerv'd to have a very handſome face though overſhadowed with dirt, and a well proportion'd body, this Maid I thought to be as fit for my turne as might be. Where<g ref="char:EOLhyphen"/>upon
+<pb n="77" facs="tcp:121186:48"/> I took her in, and new-clothed her, after ſhe had well-waſh'd her ſelfe, and have<g ref="char:EOLhyphen"/>ing ſerv'd me ſomewhile, I told her in what way ſhe muſt expect to live, if ſhe was my ſervant, and with all I told her, if ſhe would conſent to it, ſhe ſhould want nothing that was either profitable or pleaſant, ſilk gowns, ſhe ſhould have for the very <hi>taking up:</hi> and then giving her ſome documents, I ſoone fitted her for my trade. Ile tell you a pretty ſtory of a trick ſhe did almoſt as ſoon as ſhe came, which did pleaſe me the more, as fore<g ref="char:EOLhyphen"/>ſeeing therein her extraordinary petulant and wanton humour: and thus it was: Being at a play with me, there was a <hi>Jack-Tumbler</hi> (as they call him) which ſhew'd a great ma<g ref="char:EOLhyphen"/>ny <hi>Hocus</hi> tricks, as thoſe alſo of activity and agillity of body, which ſo delighted her as that comming home ſhe was continually talking of what ſhe had ſeen. Being in bed with me, ſhe began in her ſleep to mumble ſomething, and then would tumble up and down: at length ſhe had got her legge over her ſhoulder, and in ſtriving to reduce it, ſhe fell over the bed on the flore: at which ſud<g ref="char:EOLhyphen"/>dain noiſe I awoke, but found my girle miſſing, neither knew I where to grope for her being it was midnight. Whereupon I lighted a candle, and comming up to looke
+<pb n="78" facs="tcp:121186:49"/> for her, (good God never ſo ſcar'd was I in my life) I found her truſt up as round as a foot-ball, looking through her legges, as if her head had been plac'd where her — ſhould have been. Now not knowing what to think of it, I cal'd in ſome of my neigh<g ref="char:EOLhyphen"/>bours, who came in both Male and Female, and ſeeing her in that poſture, ſome thought ſhe had been poſſeſt with the Divell, others this, and ſome that, but <hi>I</hi> am ſure we were all of us ſhrewdly afraid to ſee ſo many holes open, and ſhe ſtaring over them: at length (I being more truly valiant then the reſt, ſtept forth and aſſiſted her to remove her leg, which ſoon diſpoſſeſt her of this <hi>Hocus Pocus</hi> Divell.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>There was laughing enough (I dare warrant) at this fatall accident.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>I that there was, and too much in a young Lad that ſtood by, <hi>which his evill ſent did too too fowly bewray.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Hadſt thou but carryed about this Girl to ſhow this trick in publick, thou wouldſt have had more cuſtomers to ſee it, then thoſe that ſhow a Calfe with two tailes, or a Hogg with eight legges, &amp;c. but the grand queſtion would be, how thou ſhouldſt be rid of them after they had once ſeen it?</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Well to proceed, the fame of theſe
+<pb n="79" facs="tcp:121186:49"/> two beauties had ſo increaſt our acquaintance, that <hi>I</hi> repented not of my being Bawd, nei<g ref="char:EOLhyphen"/>ther they of their being proſtitutes. For com<g ref="char:EOLhyphen"/>pute you how great our benefit was, if we made our viſitants pay for a pinte of wine inſtead of a quart. And in ſhort, what ever they ſent for out of my houſe, I would take my tole out of it, before i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhould come to them: notwithſtanding I made them pay ſoundly for fowling my linnen, as alſo for candles burnt in their company, nay I would reckon in likewiſe ſix pence at leaſt, for every hower I had loſt of my naturall reſt. Some<g ref="char:EOLhyphen"/>times my poor <hi>Gulls</hi> would admire at their great reckonings, which perhaps they taſted of but one ſort of meat ſerv'd up in ſeverall diſhes, <hi>I</hi> meane pipes of Tobacco. Yet theſe our immoderate gaines may be in ſome mea<g ref="char:EOLhyphen"/>ſure excus'd, if you conſider at what a high rate we live, whither we have trading or not: beſides the coſt we are at for paints, perfumes, gay cloaths, the rent of a ſtately houſe, though it may be the furniture coſts us little, you know how.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>
+                  <hi>I</hi> do ſo, For I conceive all of our profeſſion, though they uſe a various method of gaining, yet the way is all one in effect.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>Now as I told you, though we had a full trade, yet did <hi>I</hi> make my two Doxies
+<pb n="80" facs="tcp:121186:50"/> ſerve. My Citizens Wife, ſhe was now re<g ref="char:EOLhyphen"/>ſolved to admit of none leſſe then a Gentle<g ref="char:EOLhyphen"/>man, as thinking it beneath her, ſince ſhe had forgotten her common epithite, <hi>Miſtreſſe,</hi> and aſſumed that which was more honourable, Madam, which ſhe did make all her Lovers beleeve as currant, though ſhe was the Wife but of an ordinary (cornuted) tradeſ-man.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Now thou talkeſt of cornuting, thou putteſt me in minde of moſt of our Citizens. But prithee tell me why is it that they are ſaid to weare <hi>By-Hornes,</hi> and not <hi>
+                     <g ref="char:V">Ʋ</g>nicornes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>The reaſon (as I ſuppoſe) may be deduc'd from the poſture a Man's Wife lyeth in, when ſhe is cornuting him, <hi>viz.</hi> her legges diſplay'd, and not from the virile inſtrument that is the cauſer of it. You may as well aske the reaſon why the poor harmleſſe Man ſhould weare them on his head, and not the Wife for doing the fact: If you conſider the Man as the Womans head, the queſtion is re<g ref="char:EOLhyphen"/>ſolved.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Thou art ſtill a notable wag. But prithee proſecute thy ſtory of this City-Cur<g ref="char:EOLhyphen"/>tezan.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>According to her title (when ſhe went abroad) was ſhe both attir'd and at<g ref="char:EOLhyphen"/>tended; and with very great reſpect was ſhe obſerv'd at home, when any of her Lovers
+<pb n="81" facs="tcp:121186:50"/> was preſent. Her Man <hi>(alias Pimp)</hi> ſtood con<g ref="char:EOLhyphen"/>tinually bare before her, and there was none in the houſe durſt ſay otherwiſe then (when ſhe wanted any thing) what is your Ladyſhips pleaſure, &amp;c? If any Gentleman demanded to ſee her, (before admittance) ſhe would be ſure to conſult with her Glaſs for the amend<g ref="char:EOLhyphen"/>ment of the Errata's of her face. She ſeldome ſtood at the window but to intice in ſome prey, which ſhe could very artificially do by amorous glances, or by lookes, which ſeen'd as if ſhe languiſht for love of the party paſſing by. Once when ſhe was ſtanding at the win<g ref="char:EOLhyphen"/>dow, there hapned to paſſe by a very ſpruce Gallant, who obſerv'd her very much, but ſeeing that her eye could not prevaile on him, ſhe thought on another trick that ſhould, for dropping her handkercheife out at the win<g ref="char:EOLhyphen"/>dow, ſhe aim'd it to fall on his head; where<g ref="char:EOLhyphen"/>upon ſhe deſir'd of him that favour as to re<g ref="char:EOLhyphen"/>ſerve it till ſhe ſhould come downe, and eaſe him of his charge. As ſoone as ſhe appear'd at the doore, he preſented it to her with great ſubmiſſion: (ſhe had the better opportunity to act this her plot by his ſlowe, yet ſtately pace, for he was much afraid of dirting his ſilk ſtockings, <hi>and Legge ruffes.</hi>) Now after ſhe had courteouſly thanked him for that fa<g ref="char:EOLhyphen"/>vour, ſhe deſir'd him to walk in, that there<g ref="char:EOLhyphen"/>by
+<pb n="82" facs="tcp:121186:51"/> ſhe might have occaſion to ſhow her fur<g ref="char:EOLhyphen"/>ther gratefulneſſe, by indeavouring to tran<g ref="char:EOLhyphen"/>ſcend his expectations by his welcome. He was not able to refuſe ſo gracious a favour from ſo ſweet a creature, eſpecially having now his heart conquered by her all-conquer<g ref="char:EOLhyphen"/>ing beautious perfection. This firſt viſit was the Mother of many more, ſo that in a ſhort time, he was her profeſt lover. Now all his buſineſſe was, how he might contrive a meanes to injoy her, as being reduc'd to ſuch a con<g ref="char:EOLhyphen"/>dition by her agreeable and pleaſing conver<g ref="char:EOLhyphen"/>ſation, as nothing could pleaſe him with out it, nor reaſon perſwade.
+<q>
+                     <l>If one by reaſon ſeeke for to ſuppreſſe.</l>
+                     <l>That heate love gives, the greater is th'exceſs.</l>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Yet I muſt tell you, were I a Man, I ſhould loath a common lip, were it dipt as deep in vermilion as is <hi>Aurora's</hi> cheekes, whoſe colour the Sun new dyes every morning: for my part, I wonder at the folly of ſome Men, that can affect ſuch a one, that affects none, but for their money, and ſo <hi>Tom Tinker</hi> may have admittance as well as a Gentleman. Beſides what pleaſure can a man injoy with ſuch a one, who hath loſt the ſence of feeling almoſt in that place, which ſhould be moſt
+<pb n="83" facs="tcp:121186:51"/> ſenſible, and which is worſe (by uſing it ſo often) it becomes no better then a Jakes, for every raſcall to disburthen himſelf therein.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>If you thus interrupt me continually, I ſhall want time to finiſh my narration. Now I ſay as for her part, her minde was buſied in ſomething elſe, <hi>viz.</hi> how ſhe might make a prey of him; (for knowing him to be wealthy) ſhe was reſolved to make him pay deare for ſin, if he had a deſire to commit it: which he reſolv'd to doe, if money would bring it to paſſe. And it ſeemes it was that which pre<g ref="char:EOLhyphen"/>par'd his way for him: for he no ſooner gave her ſome angels with a promiſe of more, but ſhe preſently <hi>ſubjected</hi> her ſelfe to his plea<g ref="char:EOLhyphen"/>ſure. It was my hap to be in the roome in which they were to be in <hi>action,</hi> but <hi>I</hi> could not chooſe but ſmile at a jeaſt ſhe put upon him: It was thus, juſt as he had <hi>planted his peece to ſhoot her between wine and water,</hi> it ſeems ſhe had ſeen ſome defect, whereupon ſaid ſhe, <hi>poope Mr. Gunner your Linſtock is too ſhort, and therefore I feare you will hardly give fire without burning your fingers:</hi> which he did not much minde, his thoughts being preoccupied about the <hi>work.</hi> Now you ſhall heare how fatall that bout was to him; in reference to which you muſt underſtand, that there was a boyſte<g ref="char:EOLhyphen"/>rous Captain which did love her exceedingly;
+<pb n="84" facs="tcp:121186:52" rendition="simple:additions"/> inſomuch that I have often heard him ſay, nay ſweare, that he would aſſuredly be the death of him, that ſhould utter a word in way of love to her. Now it hapned that this Ro<g ref="char:EOLhyphen"/>domantado being halfe drunk, came to my houſe at this very time. Seeing him coming in at my doores, I ran up to give them no<g ref="char:EOLhyphen"/>tice there of: our time being ſhort for the hiding of the Gentleman, ſhe made no more adoe, but put him under her farthingale, which was very large. He was no ſooner con<g ref="char:EOLhyphen"/>vey'd under, but my Captain enters the chamber: His firſt ſalutations were a com<g ref="char:EOLhyphen"/>pany of oaths and vows, that if any arme ſhould be ſo bold to clip her naked, but his martiall armes, he would ſoon conſume it with his rage; let him be what he will, (ſaith he) there's none dare coape with me that was bred and born among the thunder and lightning of cannons, that was continually encountred with bullets, as a <hi>Knight of the blade</hi> is with drops of raine, or a ſhower of haile ſtones. Now juſt as he was about to imbrace her, he ſmelt an unſavory ſent; whereupon he ſwore that my girle had — her ſelfe. But you may be pleas'd to underſtand that this amoriſt (lying latent under her coates, &amp; hearing ſuch fatal threat<g ref="char:EOLhyphen"/>nings againſt himſelfe) I ſay feare made him
+<pb n="85" facs="tcp:121186:52"/> utter that which was his betrayer. This Cap<g ref="char:EOLhyphen"/>tain being now not able to indure ſuch an af<g ref="char:EOLhyphen"/>front put upon him, took the boldneſſe to Kick his Love, thinking by that meanes to remove her, that thereby ſhe might have an oppor<g ref="char:EOLhyphen"/>tunity to cleanſe her ſelfe, but in ſo doing he Kickt his corrival from under her farthin<g ref="char:EOLhyphen"/>gale: at firſt he was much amaz'd, to ſee her caſt her <hi>Whelpe</hi> in ſuch a manner, but after he had recollected his ſenſes, he began to diſcharge his wrath on his pittifull and all — corrival in theſe termes, what's here? an atome; a <hi>ſtink<g ref="char:EOLhyphen"/>ing</hi> worme, that indeavours to with ſtand and keep back the <hi>ſhot of my cannons and demi culve<g ref="char:EOLhyphen"/>rins.</hi> And now when I am come <hi>(after I have made a breach)</hi> to make my entry with my <hi>charging pike, and</hi> have you treacherouſly ſur<g ref="char:EOLhyphen"/>priz'd her fort. Are not her <hi>Bulwarkes, Trenches, Mines, Countermines, Ditches</hi> and <hi>Waterworkes</hi> mine, and muſt you ſeek a propriety in them? After he had vented all his fury in this man<g ref="char:EOLhyphen"/>ner againſt him, in words, he thought good likewiſe that his adverſary ſhould feele it, wherfore after he had given him ſome of that pretious unguent, named <hi>unguentum baculinum,</hi> he tumbled him down the ſtaires to provide for his future ſecurity. After he had rid himſelf of all inconveniences, as he thought, he came to his <hi>Miſtreſſe</hi> fully reſolv'd at leaſt to try, if
+<pb n="86" facs="tcp:121186:53"/> 
+                  <hi>he could breake a lance with her:</hi> But ſhe was not ſo minded, as knowing him to be pennileſſe, and that ſeeing there was little benefit to be expected from his company, ſhe deſired him to depart, being an unſeaſonable time of night, which he tooke in ſuch great diſdaine, as that he became outragious, in ſo much that he did cudgel our coates all round. Whereupon I advertis'd the watch (as ſeeing no better way) who eas'd us of all further trouble with him. By this it is evident, what great care we take of them, that oft times ſpend their whole eſtates on us.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>As for my part, Siſter (it's not un<g ref="char:EOLhyphen"/>knowne unto you) I count it a peece of wiſe<g ref="char:EOLhyphen"/>dome to put of that garment which will be no longer ſerviceable unto me; and I thinke it no leſſe, to be willing to leave the company of a poore Gentleman for that of a rich one, and ſo of your niggard or ſharke, for that of a noble and free nature, ſuch as are young haires, Marchants men, <hi>Knights Errants,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>It's very true Siſter, according to my judgement, otherwiſe I had not beene ſo ſedalous in forbiding and keeping of unpro<g ref="char:EOLhyphen"/>fitable Hangers on from my houſe. For I was reſolv'd none ſhould therein enter, but he ſhould pay tole before he went out, or offer up ſomething on the altars of Venus that may
+<pb n="87" facs="tcp:121186:53"/> be profitable to her ſervants. But as I was tel<g ref="char:EOLhyphen"/>ling you, the manner how I rid my ſelf of this captain, ſo let me tell you I could not do it ſo abſolutely, but that he viſited me again: and now ſeeing that I muſt of neceſſity be troub<g ref="char:EOLhyphen"/>led with him, I plotted how I might make mine advantage of him. Money I know he had none, as knowing he had laviſhly ſquan<g ref="char:EOLhyphen"/>dred it away in our company, wherefore in fair termes I told him that he might frequent our houſe as often and as freely as even. But with all I told him, it would be very requiſite for him to lay a ſide his jealous humor, and comply with thoſe that ſhould pretend love to his love, helping them to the accompliſh<g ref="char:EOLhyphen"/>ment of their Luſts, and aſſiſt me to make them dearely pay for it. I advis'd him ſometimes to officiate as a Pimp, ſometimes as a Hector, othertimes as a husband to cloake her vitious actions. I ſoone perſwaded him to yeild to my demands, after I had epitomiz'd to him the various waies of our gaining, and pleaſure, of both which I aſſur'd him be ſhould be partaker with us. I lodg'd him in my houſe to be ready on all occaſions, <hi>viz.</hi> If any refus'd to pay Reckoning, he might (with his <hi>Com-rogue</hi>) enforce them to it: if any came in over charg'd with money, he might eaſe them of their bur<g ref="char:EOLhyphen"/>then, &amp;c. Had it not been for his aſſiſtance, we
+<pb n="88" facs="tcp:121186:54"/> had miſt of many a gallant prize: to relate all the ſeverall cheats, and trappannings we acted through his meanes, it would be a thing too tedious for you to hear, and to me irkſome to relate, as now loathing (as I hope you do) my former courſes, for which I ſhall deſire the aſ<g ref="char:EOLhyphen"/>ſiſtance of the Almighty to help me to repent ſeriouſly for them. Wherefore I ſay, for bre<g ref="char:EOLhyphen"/>vity ſake, I ſhall onely aſſert one trick we ſerv'd a French Gentleman: Which was thus, ſeeing a country girle <hi>I</hi> had ſtanding at the doore, he was extreamly in love with her; for though ſhe was borne of poore parentage, yet had ſhe an excelling beauty, which the neat<g ref="char:EOLhyphen"/>neſſe and gallantneſſe of her habit did much augment. At firſt to ingraciate himſelfe into her favour, he did uſe to ſend her amorous let<g ref="char:EOLhyphen"/>ters, and ſometimes verſes, accompanied with ſome token (oft times) of his love. Among the reſt a copy as <hi>I</hi> remember was to this ef<g ref="char:EOLhyphen"/>fect; which our <hi>Champion</hi> ſeeing, and having drencht his wits in wine, would by all means write an anſwer to it for our private mirth; and therefore <hi>I</hi> ſhall let you participate of ſome of it in the reherſall of the one with the other;
+<q>
+                     <lg>
+                        <head>1</head>
+                        <l>Madam, ſome beauties have the power</l>
+                        <l>To make one love-ſick for an hour;</l>
+                        <pb n="89" facs="tcp:121186:54"/>
+                        <l>It may be for a day or two:</l>
+                        <l>But ſo to captivate a heart</l>
+                        <l>That it ſhould never never part</l>
+                        <l>Alone that art remaines in you.</l>
+                        <lg>
+                           <head>Anſ.</head>
+                           <l>Some buttocks, Madam, have the power</l>
+                           <l>To — ſome four times in an hour,</l>
+                           <l>By Phyſick ſome a day or two:</l>
+                           <l>But for to — to have a taile,</l>
+                           <l>That at all times ſhall never faile,</l>
+                           <l>One ſuch alone belongs to you.</l>
+                        </lg>
+                     </lg>
+                     <lg>
+                        <head>2</head>
+                        <l>Though other beauties have the skill,</l>
+                        <l>By tempting frowns a heart to kill,</l>
+                        <l>And by degrees a ſoule undoe,</l>
+                        <l>And in a twinkling of an eye,</l>
+                        <l>At once to bid one looke and dye:</l>
+                        <l>Madam that art remaines in you.</l>
+                        <lg>
+                           <head>Anſ.</head>
+                           <l>Though by degrees ſome have the skill,</l>
+                           <l>By tempring dung a Jakes to fill,</l>
+                           <l>And ſo poor Citizens undoe:</l>
+                           <l>But ſo to dung as that at once,</l>
+                           <l>Matter t'afford to build a ſconce,</l>
+                           <l>Madam that — belongs to you.</l>
+                        </lg>
+                     </lg>
+                     <lg>
+                        <head>3</head>
+                        <l>Fair Miſtreſs to your flaming eyes,</l>
+                        <l>A heart I faine would ſacrifice,</l>
+                        <l>If I had ere a one in ſtore:</l>
+                        <l>But having loſt mine long before.</l>
+                        <l>Well I may wiſh, ſigh and adore,</l>
+                        <l>But for my life can love no more.</l>
+                        <lg>
+                           <head>Anſ.</head>
+                           <l>Ye Privies whence groſs vapors riſe,</l>
+                           <pb n="90" facs="tcp:121186:55"/>
+                           <l>Somewhat from thence I'd ſacrifice</l>
+                           <l>But cannot get ought of that ſtore,</l>
+                           <l>Far having dung'd not long before,</l>
+                           <l>I for my life can't — no more.</l>
+                        </lg>
+                     </lg>
+                  </q>
+               </p>
+               <p>This was the beſt entertainment his love<g ref="char:EOLhyphen"/>ſick verſes could receive at our hands; when at any time we receiv'd any ſuch fopperies, we made it our paſtime in private to laugh at his folly.
+<q>
+                     <l>We valew not a ruſh Platonick loves</l>
+                     <l>Socratick's that which our five ſenſes moves,</l>
+                     <l>At once to ſport in pleaſure —</l>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>Surely you were not ſo reſpectleſſe of your future benefit, as to diſreſpect his paſ<g ref="char:EOLhyphen"/>ſion, by your <hi>Daughters</hi> not ſending his letters an anſwer ſome way ſatisfactory in comply<g ref="char:EOLhyphen"/>ing with his affection, or againe to jeere at his poetry in ſuch a manner, as that he ſhould take any notice of it.</p>
+            </sp>
+            <sp>
+               <speaker>Thais.</speaker>
+               <p>O not for my <hi>Daughter</hi> us'd to ex<g ref="char:EOLhyphen"/>toll his verſes to him above all ſhe had ever read; to retaine him ſtill under her power; and likewiſe ſhe would ſend him letters, which were compos'd of no hing but indear<g ref="char:EOLhyphen"/>ing expreſſions of a tender ,jl bn;kkl;affection to him; ſhe us'd to expreſſe her fained love to him, not
+<pb n="91" facs="tcp:121186:55"/> onely by writing, but like wiſe in ſpeech and in behaviour. One time <hi>I</hi> remember when he was with her ſhe fell into a ſwound ſeem<g ref="char:EOLhyphen"/>ingly, meerely becauſe ſhe askt him for ſome<g ref="char:EOLhyphen"/>thing of an indifferent valew which he refus'd to give her; whereupon ſhe preſently fell to the ground, firſt ſpeaking in a lamentable tune, now <hi>I</hi> ſee he hath abated his love towards me, for <hi>I</hi> askt this onely to try his affection. After ſhe ſeem'd to be ſome what recovered, thus ſhe expreſt her ſelfe, which <hi>I</hi> did put into time;
+<q>
+                     <l>Ah! now undone I am; I feele my heart</l>
+                     <l>For love to breake, the greater is my ſmart.</l>
+                     <l>His falſneſſe kills me: now I wiſh to dye,</l>
+                     <l>That Mens ingratitude, I no more may try.</l>
+                  </q>
+               </p>
+               <p>This ſimple French-man thought what ſhe had ſaid came from the bottom of her heart, (ſhe expreſt her ſelfe ſo handſomely) and therefore preſently granted her deſires: and not onely ſo, but vow'd to be her perpetual ſervant and lover; but as for her part ſhe re<g ref="char:EOLhyphen"/>ſolv'd he ſhould be no longer ſo then his mony laſted. There was not a day paſt where<g ref="char:EOLhyphen"/>in he ſaw us not, to his exceſſive charge, leav<g ref="char:EOLhyphen"/>ing commonly behind him in money (as our fee) as much as he had expended in making
+<pb n="92" facs="tcp:121186:56"/> merry, which we ſpent jovially for his ſake.
+<q>
+                     <l>Lightly it came, and lightly it did fly,</l>
+                     <l>Whileſt beauty laſted, riches could not dye.</l>
+                  </q>
+               </p>
+               <p>Having not a continuall ſpring or mine of Coyn, he ſoon ſounded the bottome thereof, which as ſoon as we perceiv'd, we bethought our ſelves of a way to excommunicate him, which we did thus by the aſſiſtance of our ſword-man. In the firſt place we acquainted him that there was a great Lord in love with his <hi>Miſtreſs</hi> whether ſhe would or no, and was ſo perditly affectionate and jealous of her, as that he vow'd the death of that man that he ſhould find in her company. Wherupon we ad<g ref="char:EOLhyphen"/>vis'd him to ſee us ſeldome, for his own ſafety ſake. He was forc'd to ſubmit himſelf to our wills, but could not for his life make his own ſubſervient and obedient to reaſon, but would needs injoy once more with my daughter thoſe pleaſures, that are onely proper to ſen<g ref="char:EOLhyphen"/>ſuall appetites. We being acquainted of the night he would come, we prepar'd our devices accordingly, he came attir'd in his richeſt and <hi>onely</hi> garbe (as <hi>I</hi> thinke) for to my knowledg he had pawn'd moſt of what he had before, for our uſe, or whither he had borrow'd thoſe rich cloaths he wore, (to be the more reſpect<g ref="char:EOLhyphen"/>ed
+<pb n="93" facs="tcp:121186:56"/> by us) I cannot tell juſtly; but ſure I am, they had another owner before he departed. Being in bed, &amp; whileſt he layſolacing him<g ref="char:EOLhyphen"/>ſelf with kiſſes, &amp;c. ſo in came our <hi>Hector</hi> who perſonated the Lord whom we feigned to love my <hi>Daughter,</hi> and I'le ſay this for him, he act<g ref="char:EOLhyphen"/>ed a man of that quality to the life. Now was Monſieur in a fad <hi>quaking</hi> fit, not knowing what to do, at length he bethought himſelfe to riſe and put on his cloaths, and ſo ſteale down the ſtares <hi>incognito</hi> (for our titular Lord took no notice of any that was in bed, but did often knock up for us, to know where his <hi>Miſtreſſe</hi> was, and why ſhe came not to him?) But Monſieur was in a far ſadder caſe when he could not find his cloaths, and no wonder, for we had layed them up ſafe before. He was ſlipt out of bed, but what with feare, and what with the cold, his teeth did beate alarum in his head, inſomuch that it caus'd may <hi>Lord</hi> to withdraw the curtaines, and by the light of the Candle diſcovered his Ape<g ref="char:EOLhyphen"/>ſhip, Monſieur Amoreux indeavouring to hide himſelfe behinde the hangings, whereat he ſeem'd to be in a furious rage, damming and ſinking him was the onely rhetorick us'd, and then drawing his ſword, ſwore he would be the death, firſt of this inconſtant and luſtfull quean, and afterward he ſhould take leaſure to torture that Rogue which had thus ſtain'd
+<pb n="94" facs="tcp:121186:57"/> his honour; whil'ſt he was thus ſwaggering, Monſieur took the opportunity to flye for it, and comming to the ſtaires head (thinking this Antagoniſt was at his heeles) made but one ſtep from the top to the bottome, and ſo ran to his lodging in his ſhirt (which was a long ſtreet to it) and at the heeles of him fol<g ref="char:EOLhyphen"/>lowed a whole regiment of boys, which left him not till he came to his lodging. What with this diſgrace, and what by reaſon of his poverty, I underſtood he left <hi>Rome,</hi> to trye if he could finde better fortune elſewhere. Thus have I faithfully related to you the moſt memorable paſſages of my life, and it was for this purpoſe I came this day unto your houſe; and withall to tell you my reſolution, which is abſolutely to abandon all theſe kind of vi<g ref="char:EOLhyphen"/>tious courſes I have here related you, which though they ſeeme to pleaſe at firſt, will aſ<g ref="char:EOLhyphen"/>ſuredly at laſt either put an end to his eſtate or life. As you in part ſee by this laſt re<g ref="char:EOLhyphen"/>hearſed ſtory of Mounſieur, who being be<g ref="char:EOLhyphen"/>guiled by the falſe charmes of illicite plea<g ref="char:EOLhyphen"/>ſures, injoyed not the happineſſe he had pro<g ref="char:EOLhyphen"/>miſed his hurtfull thoughts, but was reduced both to Shame and Poverty: who may ſerve as a patterne to all thoſe that delight in ſuch pernitious and diſſolute courſes, and thereby may ſee that they are in the way of hell and
+<pb n="95" facs="tcp:121186:57"/> damnation, if they doe not ſpeedily ſtep into the path of a righteous and holy life and con<g ref="char:EOLhyphen"/>verſation. As for my owne part I am hear<g ref="char:EOLhyphen"/>tily ſorry, that I have thus ſpent that time which ſhould have beene imployed and dedi<g ref="char:EOLhyphen"/>cated to divine worſhip, in Idleneſſe, Wan<g ref="char:EOLhyphen"/>tonneſſe, Riot, in perverting others, and in deſtroying my owne ſoule. Wherefore now I intend to ſpend the reſidue of my life in ſome remote Cell or Hermitage; where my here<g ref="char:EOLhyphen"/>tofore bewitching haires ſhall be my ſole nap<g ref="char:EOLhyphen"/>kins to wipe thoſe teares of mine eyes with true repentance for my ſins, ſhall extract from thence, my luſtfull &amp; deceitfull crimes will I number by my <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ighs and groanes; and finally, faſting ſhall be to me inſtead of my former feaſting, and ſo farewell.</p>
+            </sp>
+            <sp>
+               <speaker>Ant.</speaker>
+               <p>I like this well.
+<q>
+                     <l>But ſtay; I'le with thee goe, and trie</l>
+                     <l>If I can ſo well live, ſo dye.</l>
+                  </q>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="addendum">
+            <pb facs="tcp:121186:58"/>
+            <pb n="97" facs="tcp:121186:58"/>
+            <head>A Dehortation from Luſt, drawne from the ſad and lamentable conſequences it produceth.</head>
+            <p>MY intent by this Poſtſcript, is to teach the Reader, how he may imitate the <hi>Egyptian</hi> Nicetas, by ſailing by the <hi>Scylla</hi> of carnall pleaſure, and the <hi>Caribdis</hi> of incon<g ref="char:EOLhyphen"/>tinency, and yet not indanger the ſhipwrack of his chaſtity; How he may ſafely drink out of <hi>Circes</hi> cup, and yet be not metamorphoſed into a Swine; How he may come among the <hi>Lotophagi,</hi> and yet tarry not with them; How he may heare the <hi>Syrens</hi> ſweet and harmoni<g ref="char:EOLhyphen"/>ons voices, and yet be not inchanted by them. Now ſhould I allege all that might be ſaid againſt this luſtfull vice, to make you abhor
+<pb n="98" facs="tcp:121186:59"/> it, this ſmall Treatiſe would ſwell into Vo<g ref="char:EOLhyphen"/>lumes; wherefore let your daily experience and obſervation, by the <hi>Pilot</hi> to ſteere your courſe; or do but conſider the miſeries that luſt hath brought on Men, and perhaps it may teach you to be wiſe by other Mens harmes; Yet miſtake me not, I would not have you ſo ſevere againſt your ſelves in ſtriving to be continent, as to imitate ſome, that have <hi>ca<g ref="char:EOLhyphen"/>ſtrated</hi> themſelves, others that have blinded themſelves, becauſe they would not behold inticing beauties; or to be ſo fooliſhly nice, as <hi>Xenocrates</hi> was, who if he ſaw a beaſt in copulation, would flye as faſt from the place, as if the Divell was there; or to be as <hi>Scipio</hi> was, that married a moſt beautifull and faire Virgin, and immediately after the celebrati<g ref="char:EOLhyphen"/>on of the nuptials, ſent her home to her friends without the injoying the leaſt fruit of wedlock; this he did purpoſely to trye how great a conquerour be could be over his con<g ref="char:EOLhyphen"/>cupiſcence: or laſtly, to doe as <hi>Spurina</hi> did, who deform'd her well form'd face, that thereby ſhe might not be the cauſe of luſtfull defires in any. There are far eaſier things that I ſhall preſcribe you, for the bridling of this ſinfull paſſion. And to be breife, take them in theſe two verſes:
+<pb n="99" facs="tcp:121186:59"/>
+               <q>
+                  <l>
+                     <hi>Otia, menſa, libri, vaga lumina, verba, ſodales;</hi>
+                  </l>
+                  <l>
+                     <hi>Haec tolle, hanc minue, hos muta, haec claude, haec fuge, vita hos.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>In the firſt place, <hi>otia tolle,</hi> be not idle; for that's the fitteſt ſeaſon the Divell hath to perſwade thee to all wickedneſſe, but eſpecially to luſt, which is the Spring and Fountain of all miſchiefe, and the Mother of moſt vices; And therefore in ſome re<g ref="char:EOLhyphen"/>ſpect, it were not amiſſe if <hi>Draco</hi>'s law was in force among us, that held ſloath a capitall crime. For to be ſure, that Man <hi>qui nihil agit</hi> (which doth nothing) may be truly ſaid <hi>male agere</hi> (to do ill.) It's a thing equally certaine, that he that is idle, is likewiſe unchaſte. Wherefore to conclude:
+<q>
+                  <l>
+                     <hi>Otia ſi tollas, periêre Cupidinis arcus,</hi>
+                  </l>
+                  <l>
+                     <hi>Contempiae<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> jacent, et ſine luce faces.</hi>
+                  </l>
+               </q>
+               <q>
+                  <l>Shun ſloath, and Cupids bow thou'lt break;</l>
+                  <l>And's torch contemn'd, will ſhine but weak.</l>
+               </q>
+            </p>
+            <p>Next, <hi>menſam minue,</hi> that is, pamper not too much thy body with delicates; For <hi>nunquam fames adulteria genuit;</hi> Adultery was never the Daughter of temperancy.
+<pb n="100" facs="tcp:121186:60"/> Chaſtity lives more ſecure in low Cotta<g ref="char:EOLhyphen"/>ges, then in ſublime Pallaces. And as that Trumpet blowes lowder, when moſt full of breath, ſo that body boyles moſt in luſt, that's moſt inflam'd with wine, dainties, &amp;c. Wherefore if thou ever in<g ref="char:EOLhyphen"/>tendeſt to get the victory over thy luſt, ſtrive to get the conqueſt over thy belly. In the next place, beware of laſcivious Books, as Romances, Drolling Satyres, wanton Poems, &amp;c. which are too too common in all Languages, which ſerve for little elſe, then to infuſe into the Readers minde, at leaſt evill thoughts, if not impure words and actions. <hi>Ovid</hi> that grand Crafts-maſter in amorous mat<g ref="char:EOLhyphen"/>ters adviſeth you;
+<q>
+                  <l>
+                     <hi>—Teneros ne tange Poetas.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>And yet School-maſters (to their great<g ref="char:EOLhyphen"/>er ſhame) ſtick not to teach publickly his art of loving; or more properly, his art of Bawdry, as alſo <hi>Martiall, Catullus, Tibullus, Propertius,</hi> which (no doubt) is a great cauſe of corrupting youth. Where<g ref="char:EOLhyphen"/>fore (I think) it would not be amiſſe for you to ſay with the Poet of old;
+<pb n="101" facs="tcp:121186:60"/>
+               <q>
+                  <l>
+                     <hi>Ite mali verſus animam qui perditis, ite.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>Fourthly, <hi>vaga lumina claude;</hi> Sometimes luſt creeps into the ſoule through a kiſſe, or through the eares, but cheifly through the eyes. Hence proceeded that law of <hi>Zeleucus,</hi> that punniſhed adultery by the loſſe of the eyes, as being the principall cauſe of that ſinfull act.
+<q>
+                  <l>
+                     <hi>—<g ref="char:V">Ʋ</g>rit<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> videndo.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>Laſtly, <hi>fuge ſodales;</hi> I meane onely bad companions. He that continually wallows with Swine in the mire, muſt expect to be in the ſame filthy condition. The Plague cannot be more infectious, then ill manners. For example is ever more prevalent with mankind, then precept. One ſcabed Sheep will infect a whole flock.</p>
+            <q>
+               <l>
+                  <hi>—Sicut grex totus in agris.</hi>
+               </l>
+            </q>
+            <q>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nius ſcabie cadit.—</hi>
+               </l>
+            </q>
+            <p>Therefore it's the beſt way for him, that is not ingag'd with ill companions to be very wary of them.
+<pb facs="tcp:121186:61"/>
+               <q>
+                  <l>
+                     <hi>Hic niger est, hunc tu Romane cavaeto.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>If he is, let him diſingage with all ex<g ref="char:EOLhyphen"/>pedition, leaſt uſe make a habit, and a habit turne to a ſecond nature. They cannot hurt thy body ſo much by for<g ref="char:EOLhyphen"/>ſaking them, as they would thy ſoule by accompanying them. Be of that minde that <hi>Apollonius Thyanaeus</hi> was in, when he deſired <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Gods that they would give him ſuch a diſcerning minde, as <hi>noſſe bonos, malos vitare.</hi> to know the good, and ſhun the bad. Had I had (which I wiſh you may have) that admirable faculty, I might not (perhaps) now have been re<g ref="char:EOLhyphen"/>duced to this deplorable condition I now am in either to make my ſelfe an exile, or be impal'd and mew'd up betweene two walls for ever. I can charge this on none, but ſuch ill company I kept that brought me to all vitious and irre<g ref="char:EOLhyphen"/>gular courſes. As ſoone as I had let looſe the reines of my will to their pleaſue-promiſing allurements, I ſoone ſuckt in the poiſon of their ill conditi<g ref="char:EOLhyphen"/>ons, and ſo learnt of them to be as export as the beſt of them in the per<g ref="char:EOLhyphen"/>petration
+<pb n="103" facs="tcp:121186:61"/> petration of all manner of wickedneſſe and debauchments. But I hope what I have ſaid, may be enough to keepe you of from my extravagancies, that thereby you may ſerenely, and peaceably injoy your eſtates, lives and liberties. O her<g ref="char:EOLhyphen"/>wiſe let me tell you, if you will not make other Men your example, you your ſelfe ſhall be made an example to others. I feare me, I have made too large a di<g ref="char:EOLhyphen"/>greſſion, wherefore to returne to my in<g ref="char:EOLhyphen"/>tended diſcourſe to dehort you from all luſtfull actions, let me put you in minde of ſome few tragicall examples, as juſt judgments of God againſt ſuch, that have accounted pleaſure their cheife happineſs; and venereall delights, the <hi>Elizium</hi> of their deſires. The World is full of ſuch Hiſtories, but I ſhall inſert none but what are of mine owne obſervation. About ſome ten yeares ſince, (as I was in the weſt of England) there fell out this mournfull tragedy, occaſioned by luſt. There was a young Gentleman, (whoſe name I ſhall forbeare to regiſter, though I do his crime) who as long as he could keep out wanton thoughts from infecting his minde, imbraced <hi>Bellona</hi> in<g ref="char:EOLhyphen"/>ſtead of <hi>Venus,</hi> and thought it more ho<g ref="char:EOLhyphen"/>nour
+<pb n="104" facs="tcp:121186:62"/> to erect trophees of Gunnes and Swords to <hi>Mars,</hi> then to offer up Virgi<g ref="char:EOLhyphen"/>nities on the Altars of <hi>Venus.</hi> But ſhe being diſpleas'd at this, ſent a fair young Gentlewoman to him, that ſoone con<g ref="char:EOLhyphen"/>verted his noble thoughts into an ignoble amorous paſſion:
+<q>
+                  <l>
+                     <hi>—Exitus acta probat.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>In a ſhort time (giving way to it) this thing called love or luſt, ſo prevail<g ref="char:EOLhyphen"/>ed with him, that he became as ſtout and as hot a <hi>venereall</hi> Souldier, as he was before a <hi>Martiall</hi> one. And now to appeaſe that Goddeſſe whome be<g ref="char:EOLhyphen"/>fore he had offended, he offered up every yeare at leaſt an Heca<g ref="char:EOLhyphen"/>tomb of Maiden-heads to her: Among the reſt he hapned on a meane beauty, but ſuch was his raging luſt, as he could not reſt quiet till he had erected the banner of his pleaſure, on the tombe of this Gentlewomans honour. Having often times injoy'd his deſire with her, but he at length grew weary of taſting one ſort of meat, and ſo forſooke this, that he might pleaſe his ſenſuall appetite with an<g ref="char:EOLhyphen"/>other. At which ſhe was ſo inrag'd, as that
+<pb n="105" facs="tcp:121186:62"/> ſhe vow'd revenge. Thus you ſee one ſin, very often goes accompanied with many others. This Gentlewoman reſolved if ſhe could not her ſelfe, another ſhould not be the Miſtreſſe of his affections, for thus ſhe brought it about: ſhe feined her ſelfe very ſick; and ſent him a meſſenger, to deſire him to come and ſee her, before ſhe ſhould bid good night to this world, having matters of great im<g ref="char:EOLhyphen"/>portance to reveale him. Being come, and thinking no harme, ſtoop't downe to the bed to heare what ſhe had to ſay, but ſhe with a dagger (which ſhe had on purpoſe with her) immediatly ſtab'd him to the heart; for which murder, ſhe was publickly executed. Thus you ſee how juſt God is in puniſhing him for luſt, though not for murther but for her being guilty of both, the laſt being the cauſe of the former.</p>
+            <p>Being in <hi>Spaine,</hi> and ſeeing a great num<g ref="char:EOLhyphen"/>ber of people flock after a very beauti<g ref="char:EOLhyphen"/>full Gentlewoman, I inquired what it meant, they told me that that Gentlewoman was going to be hanged, wherefore being very inquiſitive to know for what cauſe, I under<g ref="char:EOLhyphen"/>ſtood it by one that had ſome relation to her, which I ſhall here relate you in
+<pb n="106" facs="tcp:121186:63"/> briefe. In <hi>Madrid</hi> there dwelt a Gentle<g ref="char:EOLhyphen"/>woman named <hi>Nimphidia,</hi> who by reaſon of her birth, wealth, and beauty was very much courted by moſt of the gallants of that City. But the coyneſſe of her hum<g ref="char:EOLhyphen"/>our none could vanquiſh, but ſolely <hi>Ger<g ref="char:EOLhyphen"/>hardo,</hi> a noble and compleate Cavalier; they both ſo ſimpathiz'd in affections, as that they ſeem'd to have but one ſoule, <hi>and ſometimes but one body.</hi> It was not long before he had compleated his illi<g ref="char:EOLhyphen"/>cite deſires. And now all obſtacles being remov'd they never are at reſt, but when they injoy'd each others mutuall ſociety, which ended commonly in laſcivious im<g ref="char:EOLhyphen"/>braces, which in the end you ſhall ſee ſhall coſt them, the price of both their lives. About this time there was one <hi>Velaſquez,</hi> who ſeeing her at Church was extreamely captivated by her, in ſo much that nothing would content him, till he had revealed, his affections to <hi>Nimphidia;</hi> which having done, ſhe at firſt ſeem'd, very indifferent; but after ſhe had ſeri<g ref="char:EOLhyphen"/>ouſly paralel'd her two Lovers, and find<g ref="char:EOLhyphen"/>ing ſomething more excellent, in <hi>Velaſ<g ref="char:EOLhyphen"/>quez</hi> than in <hi>Gerhardo,</hi> ſhe in part yeilded her ſelfe vanquiſh't, which conqueſt he compleated by his inceſſant importunity
+<pb n="107" facs="tcp:121186:63"/> and ſweet behaviour. Now doth ſhe ſhew her ſelfe like the reſt of her ſex, by be<g ref="char:EOLhyphen"/>ing unfaithfull and inconſtant; and prefer<g ref="char:EOLhyphen"/>ing her will and pleaſure, before her mo<g ref="char:EOLhyphen"/>deſty and honeſty; ſhe admitted her ſe<g ref="char:EOLhyphen"/>cond Lover to injoy the ſame luſtfull priviledges, as did her firſt. But yet ſhe thought good to have two ſtrings to her bow; and therefore would not ſeeme to eſtrange her affections, leaſt ſhe ſhould looſe thoſe many pleaſant hours, ſhe in<g ref="char:EOLhyphen"/>joyed with <hi>Gerhardo.</hi> On a time <hi>Velaſquez</hi> found this inconſtant woman faſt chain'd in the armes of <hi>Gerhardo,</hi> which ſo ſtir'd his jealouſy and choler, as that immedi<g ref="char:EOLhyphen"/>ately he challenged him the field. When at firſt the Divell inculcates into mans mind revenge, he makes it ſeeme plea<g ref="char:EOLhyphen"/>ſant, but it ſhall be but as ſugar'd pills, which afterwards prove bitter. And though he tempted this Gentleman to a<g ref="char:EOLhyphen"/>venge his luſt by murther, yet therein ſhall he find aſſuredly, his ruine and de<g ref="char:EOLhyphen"/>ſtruction. They both meet at the place appointed, and both of them fight with equally couragious hearts, though not with equal ſucceſſe, for <hi>Velaſquez</hi> traviſing the ground, <hi>Gerhardo</hi> gave him a thruſt on
+<pb n="108" facs="tcp:121186:64"/> the right ſide, now finding himſelf mortally wounded, reſolved to bereave his Antago<g ref="char:EOLhyphen"/>niſt of his life, by the loſſe of his own: for ruſhing fiercely on one the other, they ran each other through, and ſo were both ſlaine. thus you ſee what is the end of thoſe, that in love take not reaſon for their guide, and vertue for their ſole ob<g ref="char:EOLhyphen"/>ject. Luſt cannot be more contemned and hated by earth, as it will aſſuredly be puniſhed by Heaven. <hi>Nimphidia</hi> hear<g ref="char:EOLhyphen"/>ing of this ſad diſaſter that befell her Lovers, ran quite diſtracted, and being once in the heate of her diſtemper, hung her ſelfe with her garters tied to her bed poſt. Here you ſee the juſt judge<g ref="char:EOLhyphen"/>ment of the Almighty; Although theſe three perſons lived a moſt luxurious and laſcivious life, yet were their ends moſt miſerable, and deplorable, for all three dyed moſt deſperately, to the future war<g ref="char:EOLhyphen"/>ning of all thoſe that ſhall hence forward live exorbitantly. I have heard of ano<g ref="char:EOLhyphen"/>ther couple whom God likewiſe punni<g ref="char:EOLhyphen"/>ſhed moſt remarkably, for this luſtfull ſin. It ſeemes the Gentleman, was an incon<g ref="char:EOLhyphen"/>ſtant and leacherous Monſieur, who be<g ref="char:EOLhyphen"/>ing at <hi>Dover,</hi> happened to lodge in a Gen<g ref="char:EOLhyphen"/>tlemans
+<pb n="109" facs="tcp:121186:64"/> houſe, who had a very beautifull Daughter: who being no ſo chaſt as faire, and behaving her ſelfe more wanton<g ref="char:EOLhyphen"/>ly then her ſex required, gave Mon<g ref="char:EOLhyphen"/>ſieur, an occaſion to tempt her, to con<g ref="char:EOLhyphen"/>cupiſcence, by expreſſing his affection to her, concluding every ſentence with a moſt ardent kiſſe, and which wunne mnore, ſometimes he would preſent her with plea<g ref="char:EOLhyphen"/>ſant toyes, things very prevalent to win maiden-heads. At laſt ſhe ſatisfied his and her luſtfull deſires; which vaine Chymeras of pleaſure did coſt both his and her life. For after they had glutted themſelves with venereall delights, her belly began to be <hi>full of them,</hi> I meane ſhe was with child. Her parents perceiving it, and knowing it was occaſioned by this Monſieur, they diſclaimed her, ſhutting them both out of doores. Monſieur perceiving ſhe was re<g ref="char:EOLhyphen"/>duced to extreame poverty, left her to ſhift for her ſelfe. After the fruit is gathered, the tree ſtands neglected. Now ſhe ſees, that had ſhe had the grace to have uſed, not abuſed that beauty, which God and nature liberally beſtow'd upon her, ſhe might have raiſed, not raz'd her fortune. But after-wit is ſeldome good; yet ſhe had this happineſſe to be delivered from
+<pb n="110" facs="tcp:121186:65"/> future ſhame and miſery by dying in child bed. Now as God was juſt in pun<g ref="char:EOLhyphen"/>niſhing her lus;t, ſo he was likewiſe in re<g ref="char:EOLhyphen"/>paying Monſieur in the ſame coine. For as he was returning into <hi>France,</hi> he was drown'd with all the reſt in the ſhip. Thus God oft-times rewards the errour of our youthfull wantonneſſe at leaſt with repentance, if not with ſuddaine deſtruction. Wherefore it's a vertue as equally ſafe for maids to be modeſt, as for youth to ſhun female in<g ref="char:EOLhyphen"/>ticing beauties. I have read likewiſe of a Gentleman, who the diſorders of his youth having reduced him to poverty, was willing to undertake the office of a ſerving<g ref="char:EOLhyphen"/>man, under a wealthy old Citizen of <hi>Vienna.</hi> He was not long in that ſervile condition, before his Miſtreſſe tooke an eſpeciall affection for him, being a man ve<g ref="char:EOLhyphen"/>ry comely and proper, though meanly clad. To which ſhe was the ſooner induc'd by the incongruity of her husband and her age, he being about threeſcore, very weake and impotent, but ſhe not above twenty, plump, faire, and luſty. Her wantonneſſe ſoon prevail'd to win him to her imbra<g ref="char:EOLhyphen"/>ces; which after they had once com<g ref="char:EOLhyphen"/>menc'd, they made it their continuall pra<g ref="char:EOLhyphen"/>ctice to exerciſe themſelves in venereall
+<pb n="111" facs="tcp:121186:65"/> skirmiſhes, the firſt charge being valleys of ardent kiſſes. After they had made ſeverall repetitions, of there pleaſure in ſuch like luſtfull dalliances, it happned that the old Gentleman, was to be ab<g ref="char:EOLhyphen"/>ſent for a night, and now ſhe thinking to dedicate wholly that night to Venus, admits her luſtfull ſervant, they were both no notives in the art of loving, and theefore they omit feeding themſelves with gazing on each other, but preſently fell to action; in which incounter (ſee Gods revenging hand) they both loſt their lives. For the next day the ſer<g ref="char:EOLhyphen"/>vants came into their Miſtreſſes cham<g ref="char:EOLhyphen"/>ber, and there found them both dead, lying in a moſt ſhamefull and beaſtly manner. I thinke the old bawd <hi>Cele<g ref="char:EOLhyphen"/>ſtina,</hi> (as the ſtory is) with thoſe two Minions of Venus, <hi>Caliſto,</hi> and <hi>Meli<g ref="char:EOLhyphen"/>baea,</hi> were partakers of a bad fortune; for they all three ſuffered, condigne pun<g ref="char:EOLhyphen"/>niſhments by untimely endes, the one for promoting and inticing, the other for perpetrating and committing, the execra<g ref="char:EOLhyphen"/>ble ſin of luſt; that by theſe examples, you may ſee, how much they erre, that prefer momentary delights, before thoſe that are eternall. And how much our
+<pb n="112" facs="tcp:121186:66"/> judgements are perverted, that we ſhould ſell true reſt, for inquietude; happineſſe, for miſeries; nay even Heaven for Hell. Now this is done, when we make not chaſtity, the compaſſe by which we ſteare our actions, and then it's no wonder, if we are toſt by billows of this tempeſtu<g ref="char:EOLhyphen"/>ous world, and cannot arrive to the ha<g ref="char:EOLhyphen"/>ven of our bliſs, Heaven.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
